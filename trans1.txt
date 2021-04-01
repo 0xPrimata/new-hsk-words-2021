@@ -1,0 +1,232 @@
+白天,day
+半年,Half a year
+半天,long time
+帮,help
+包子,bun
+杯,cup
+北,north
+北边,North side
+本子,book
+别的,Other
+别人,other people
+病,disease
+病人,patient
+不大,Not big
+不对,wrong
+不用,No need to
+常,often
+常常,often
+唱,sing
+车,car
+车票,ticket
+车上,In the car
+车站,station
+吃饭,eat
+出来,come out
+出去,Go out
+床,bed
+从,From
+打,hit
+打车,Take a taxi
+打开,turn on
+打球,Play ball
+大学,the University
+大学生,College Students
+得到,get
+地点,location
+地上,On the ground
+第,First
+电,Electricity
+电话,phone
+电视机,TV set
+电影院,cinema
+东边,East side
+动,move
+读书,reading
+饭,rice
+饭店,restaurant
+房子,house
+放假,holiday
+放学,After school
+飞,fly
+风,wind
+干,dry
+干,dry
+干什么,What to do
+歌,song
+关上,close
+国,country
+国外,foreign
+还有,and also
+汉字,Chinese character
+好看,good looking
+好听,Nice
+好玩儿,Fun
+号,number
+后,Rear
+后边,behind
+后天,acquired
+话,words
+回答,Reply
+回到,Back to
+回家,Come back home
+回来,come back
+回去,go back
+火车,train
+机票,Air tickets
+几,a few
+记,Remember
+记住,remember
+家里,Home
+家人,family
+间,between
+见,see
+教学楼,Teaching building
+今年,this year
+进来,Come in
+进去,Go in
+开车,Drive
+开会,Have a meeting
+看,Look
+看病,see a doctor
+看到,see
+考,test
+课本,textbook
+课文,text
+来到,come
+老人,Old man
+累,tired
+里边,inside
+零,zero
+楼上,upstairs
+楼下,downstairs
+路口,intersection
+路上,On the road
+马路,road
+马上,immediately
+毛,hair
+没,No
+没什么,It&#39;s nothing
+没事儿,It&#39;s okay
+没有,No
+门口,Doorway
+门票,Tickets
+们,They
+面条儿,Noodles
+明年,next year
+哪里,where
+哪些,Which
+那边,there
+那里,There
+那儿,there
+那些,Those ones
+奶,milk
+男,male
+男孩儿,boy
+男朋友,boyfriend
+男人,the man
+男生,Boys
+南边,South side
+你们,you guys
+女,Female
+女孩儿,Girl
+女朋友,girlfriend
+女人,woman
+女生,Schoolgirl
+跑,run
+起,From
+起来,stand up
+汽车,car
+前,before
+前边,Front
+前天,The day before yesterday
+钱包,wallet
+请假,Ask for leave
+请进,Please come in
+请问,Excuse me
+请坐,Please sit down
+球,ball
+日,day
+肉,meat
+山,mountain
+商场,the mall
+上,on
+上边,Above
+上车,boarding
+上次,Last time
+上课,Go to class
+上学,go to school
+身上,Body
+事,thing
+试,test
+是不是,is not it
+手,hand
+书包,school bag
+书店,bookstore
+水果,fruit
+睡,sleep
+说,Say
+说话,speak
+他们,they
+她们,they
+天,day
+听到,Hear
+听见,hear
+听写,dictation
+外边,outside
+外国,Foreign country
+外语,foreign language
+玩儿,play
+晚,late
+晚饭,dinner
+网上,Online
+网友,Netizen
+忘,forget
+午饭,lunch
+西边,West side
+下班,Off work
+下边,below
+下车,get off
+下次,Next time
+下课,End of get out of class
+小孩儿,child
+小朋友,Kids
+小学,primary school
+小学生,Elementary school student
+新年,new Year
+星期日,on Sunday
+星期天,Sunday
+学,learn
+学院,Academy
+要,want
+一半,half
+一块儿,Together
+一下儿,a while
+一点儿,a little
+一些,some
+有的,some
+有时候,sometimes
+有用,it works
+右,right
+雨,rain
+元,yuan
+在家,At home
+早,early
+早饭,breakfast
+找到,turn up
+这边,Here
+这里,Here
+这儿,here
+这些,These ones
+真的,Really
+知道,know
+中,in
+中文,Chinese
+中学,Middle school
+中学生,middle School student
+重,weight
+子,child
+走路,walk
+最后,At last
+左,left
+坐下,sit down

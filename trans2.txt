@@ -1,0 +1,410 @@
+爱人,Lover
+白色,white
+班长,Monitor
+办,do
+半夜,midnight
+背,Back
+比如,such as
+比如说,For example
+笔,pen
+笔记,notes
+笔记本,notebook
+边,side
+变,change
+变成,become
+表,table
+示,Show
+不错,Not bad
+不但,Not only
+不够,not enough
+不太,Not quite
+不要,Don't
+不好意思,Sorry
+不久,soon
+不满,dissatisfied
+不少,A lot
+不同,different
+不行,No way
+不一定,Not necessarily
+不一会儿,Soon
+部分,section
+草地,Grassland
+查,check
+常见,common
+常用,Commonly used
+场,field
+车辆,vehicle
+称,Weigh
+成,to make
+出国,Go abroad
+出门,Go out
+出现,appear
+出院,Discharged
+出租,rent
+船,ferry
+春节,Spring Festival
+春天,spring
+词,word
+词典,dictionary
+词语,Words
+从小,Since childhood
+大部分,most
+大大,Greatly
+大多数,most
+大海,The sea
+大量,A lot
+大门,door
+大人,grown ups
+大声,Loudly
+大小,size
+大衣,Overcoat
+大自然,nature
+带来,bring
+但,but
+蛋,egg
+倒,inverted
+倒,inverted
+道,Tao
+道路,the way
+得出,inferred
+的话,if
+等到,wait until
+低,low
+地铁站,subway station
+点头,nod
+店,shop
+东北,northeast
+东方,East
+东南,southeast
+冬天,winter
+懂得,know
+动物园,zoo
+读音,pronunciation
+度,degree
+短信,SMS
+队,team
+队长,team leader
+多久,how long
+多数,most
+多云,partly cloudy
+发,hair
+饭馆,restaurant
+方便面,Instant noodles
+放下,lay down
+分开,separate
+分数,fraction
+封,seal
+服务,service
+该,The
+改,change
+感到,feel
+刚,just
+刚刚,just
+高级,advanced
+高中,High school
+个子,Tall
+更,more
+公交车,bus
+公斤,kg
+公路,highway
+故事,story
+关机,Shut down
+过来,come
+过年,New Year
+海,sea
+海边,seaside
+好多,many
+好久,Long time
+好人,Nice guy
+好事,Good thing
+河,River
+黑色,black
+红色,red
+后来,later
+忽然,suddenly
+湖,lake
+花园,garden
+画家,painter
+画儿,Painting
+坏处,harm
+坏人,Bad guy
+欢迎,welcome
+黄,yellow
+黄色,yellow
+回国,Return home
+或,or
+鸡,chicken
+级,level
+急,anxious
+计算机,computer
+加,plus
+加油,Come on
+家长,Parent
+假期,Holiday
+见到,See
+见过,Have seen
+讲话,Speak
+交给,Hand over
+交朋友,make friends
+叫作,Called
+教师,teacher
+教学,teaching
+接到,Received
+接下来,Next
+接着,then
+街,street
+节,Section
+结果,result
+斤,jin
+今后,from now on
+进入,enter
+近,near
+酒,liqueur
+酒店,Hotel
+就要,Will
+举,Lift
+举手,Raise hand
+举行,Hold
+句,sentence
+卡,card
+开机,Boot up
+开心,Happy
+开学,Start of school
+考生,Candidate
+靠,by
+科,Branch
+课堂,classroom
+快餐,fast food
+快点儿,Hurry up
+快要,About to
+来自,From
+蓝色,blue
+篮球,basketball
+老年,elderly
+老朋友,Old friend
+老是,always
+里头,Inside
+例子,example
+练,practice
+凉,cool
+亮,bright
+零下,below zero
+留下,Stay
+留学生,International students
+流,flow
+路边,roadside
+旅客,Traveler
+旅行,travel
+绿色,green
+面¹,Noodle¹
+面²,Noodles²
+面前,before
+名,name
+名称,name
+名单,List
+拿出,Take out
+拿到,Get
+那会儿,At that moment
+那么,Then
+那时候,At that time
+那样,That way
+南方,south
+难看,Ugly
+难题,problem
+难听,Ugly
+能够,were able
+爬,climb
+怕,afraid
+排,row
+排队,queue
+排球,volleyball
+碰,bump
+碰到,bump into
+碰见,meet
+平安,Safe
+瓶,bottle
+瓶子,bottle
+普通,ordinary
+普通话,Mandarin
+骑车,Cycling
+起飞,take off
+气,gas
+气温,Temperature
+千克,kilogram
+前年,The year before last
+墙,wall
+青年,youth
+晴天,sunny day
+请客,dinner
+秋天,fall
+求,begging
+球场,court
+球队,team
+球鞋,sneakers
+取得,Get
+全,all
+全国,Nationwide
+全家,Whole family
+全年,annual
+全身,whole body
+全体,All
+人们,people
+人数,Number of people
+日报,daily
+日子,day
+商人,businessman
+上周,Last week
+少数,few
+少年,juvenile
+身边,By your side
+什么样,What kind
+生,Give birth
+生词,New words
+市,city
+市长,mayor
+事情,thing
+收到,Roger that
+受到,Suffer
+熟,Cooked
+数,number
+送到,Sent to
+送给,Give to
+算,Calculate
+虽然,although
+它们,they
+提,mention
+提出,put forward
+提到,Mentioned
+体育场,stadium
+体育馆,stadium
+天上,Heaven
+听讲,Listen
+听说,It is said that
+停,stop
+停车,parking
+停车场,parking lot
+挺好,very good
+通,through
+同时,in the meantime
+同样,same
+头,head
+头,head
+图片,image
+外地,Out of town
+外卖,Takeaway
+晚安,good night
+晚报,Evening News
+晚餐,dinner
+晚会,Party
+网,network
+往,to
+问路,Ask for directions
+午餐,lunch
+午睡,Nap
+西北,northwest
+西餐,Western food
+西方,West
+西南,southwest
+西医,Western medicine
+洗衣机,washing machine
+下雪,Snowing
+下周,next week
+夏天,summer
+相同,the same
+想到,think
+想法,idea
+想起,Remember
+相机,camera
+像,Like
+小声,Whisper
+小时候,When I was young
+小组,group
+校园,campus
+笑话儿,Joke
+鞋,shoe
+心里,In the heart
+心中,In mind
+信,letter
+信息,information
+信用卡,credit card
+星星,star
+姓名,Name
+休假,Vacation
+选,selected
+学期,semester
+眼,eye
+养,support
+药店,pharmacy
+药片,pill
+药水,Potion
+夜里,at night
+一部分,Part of
+一路平安,Safe journey
+一路顺风,Bon Voyage
+以后,after
+以上,the above
+以外,outside
+以为,think
+以下,the following
+一点点,a little bit
+一生,lifetime
+亿,Billion
+阴天,cloudy day
+音节,syllable
+音乐会,concert
+银行卡,Bank card
+英文,English
+英语,English
+影片,film
+油,oil
+游客,Tourist
+有空儿,available
+有人,Someone
+有意思,interesting
+院,hospital
+院长,Dean
+院子,courtyard
+月份,month
+越来越,More and more
+云,cloud
+咱,we
+脏,dirty
+早餐,breakfast
+早晨,in the morning
+早就,Long ago
+怎么办,How to do
+怎样,how
+占,Take up
+站住,stop
+长大,grow up
+找出,Find out
+照相,Photograph
+这么,so
+这时候,At this moment
+这样,such
+正是,Exactly
+只能,Can only
+纸,paper
+中餐,Chinese food
+中级,intermediate
+中年,middle aged
+中小学,Elementary and middle school
+中医,Chinese Medicine
+周,week
+住房,housing
+住院,Be hospitalized
+自行车,bicycle
+字典,dictionary
+走过,Walk through
+走进,Walk in
+走开,Go away
+组,group
+组成,composition
+组长,Group leader
+嘴,mouth
+作家,writer
+作用,effect
+做到,Do it
+做法,practice
+做饭,Cook
+,

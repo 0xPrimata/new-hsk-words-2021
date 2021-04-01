@@ -1,0 +1,422 @@
+矮小,Short
+爱国,patriotic
+安,An
+暗,dark
+巴士,Bus
+百货,Department store
+摆动,swing
+败,defeat
+办事,work
+包括,include
+宝,treasure
+宝宝,baby
+宝石,gem
+倍,Times
+被迫,Forced
+比分,score
+毕业生,graduate
+避,avoid
+编,Edit
+冰,ice
+冰雪,Ice and snow
+兵,Soldiers
+并,and
+不在乎,not give a damn about
+步行,walk
+测,Measurement
+测试,test
+曾,Once
+茶叶,tea
+唱片,record
+抄写,copy
+潮,tide
+潮湿,Damp
+沉,Sink
+成人,adult
+诚信,Honesty
+尺,ruler
+尺寸,size
+充电,Recharge
+虫子,insect
+抽,Pump
+抽奖,lottery
+出售,sell
+处于,In
+处,Place
+穿上,Put on
+窗台,windowsill
+窗子,window
+春季,spring
+纯,pure
+纯净水,pure water
+词汇,vocabulary
+此,this
+粗,Crude
+促销,Promotion
+打,hit
+打败,defeat
+打雷,thunder
+大巴,Bus
+大多,most
+大哥,Big brother
+大规模,Large scale
+大会,General Assembly
+大姐,Eldest sister
+大楼,Building
+大陆,mainland
+大妈,Aunt
+大爷,uncle
+大众,public
+代替,instead
+袋,bag
+单,single
+倒车,Reversing
+倒车,Reversing
+灯光,light
+登,Boarding
+登山,Mountaineering
+地面,ground
+地下,underground
+点名,Roll call
+电灯,Electric light
+电动车,Electric car
+定,set
+冬季,winter
+动摇,shake
+独自,alone
+堵,Blocking
+对于,for
+多次,repeatedly
+多年,for many years
+多样,Variety
+多种,Many kinds
+而是,But
+耳机,headset
+二手,second hand
+法,law
+法官,judge
+翻,turn
+烦,bother
+反,anti-
+反映,reflect
+放松,Relax
+肥,fat
+分手,Break up
+分为,Divided into
+…分之…,…By…
+风景,landscape
+夫妻,Husband and wife
+付出,Give
+感兴趣,Interested in
+高价,High price
+高铁,High-speed rail
+隔,Separate
+隔开,Separate
+各个,each
+工程,engineering
+供应,supply
+共,Total
+构造,structure
+购买,buy
+瓜,melon
+怪,strange
+归,Return
+海水,seawater
+含,With
+含量,content
+含有,contain
+寒冷,cold
+毫升,Milliliters
+好友,Buddy
+黑暗,dark
+红包,Red envelope
+后头,Back
+户,Household
+划,Draw
+划,Draw
+黄瓜,cucumber
+回复,Reply
+汇,exchange
+伙,Partner
+或许,perhaps
+货,goods
+获,Get
+获奖,Awarded
+获取,Obtain
+极其,extremely
+集合,set
+季,season
+既,Both
+加入,Join
+检测,Detect
+减,Less
+健身,Fitness
+渐渐,gradually
+江,River
+奖,prize
+奖学金,scholarship
+降,drop
+降价,Price cut
+降落,landing
+降温,Cool down
+结,Knot
+姐妹,sisters
+尽快,ASAP
+紧密,close
+居民,Residents
+局,Bureau
+聚,Gather
+聚会,get together
+卷,volume
+卷,volume
+开花,flowering
+开水,boiling water
+看来,It seems
+看望,visit
+空,air
+口袋,pocket
+口语,Spoken
+快递,express delivery
+宽,width
+宽广,broad
+矿泉水,mineral water
+扩大,expand
+扩展,Expand
+括号,brackets
+垃圾,Rubbish
+拉开,Pull away
+老公,Husband
+老家,Hometown
+老婆,Wife
+泪,tears
+泪水,Tears
+类型,Types of
+离不开,Can&#39;t do without
+量,the amount
+两边,Both sides
+疗养,Convalescence
+列,Column
+列车,train
+列入,Included in
+列为,Listed as
+楼梯,stairs
+轮,wheel
+轮椅,wheelchair
+轮子,wheel
+落,drop
+毛衣,Sweater
+没错,That&#39;s right
+没法儿,No way
+没想到,did not expect
+美金,USD
+美女,beauty
+梦见,dream
+梦想,dream
+密,dense
+面试,Interview
+描述,description
+名牌儿,Famous brand
+名人,celebrity
+模特儿,Model
+末,end
+男女,men and women
+男士,Men
+难免,Inevitable
+闹,Make trouble
+闹钟,Alarm clock
+内部,internal
+宁静,peaceful
+暖气,Heating
+拍照,Take pictures
+牌,brand
+盘,plate
+胖子,Fat man
+培训,Training
+培训班,Training class
+平稳,smooth
+期末,End of term
+期中,Midterm
+气球,balloon
+汽水,Soda
+前头,Front
+亲密,close
+轻易,easily
+穷人,Poor
+秋季,autumn
+燃料,fuel
+散,Scattered
+扫,sweep
+色,color
+色彩,color
+耕,Tillage
+闪,flash
+伤害,hurt
+商务,Business
+赏,reward
+上个月,last month
+上楼,Go upstairs
+上门,Door-to-door
+烧,burn
+身高,height
+深厚,deep
+诗人,poet
+湿,wet
+食堂,canteen
+使劲,Hard
+市区,Urban area
+是否,whether
+收回,Withdraw
+手里,In hand
+守,Shou
+首,first
+暑假,summer vacation
+树林,forest
+树叶,Leaves
+刷,brush
+刷子,brush
+帅哥,Handsome guy
+率先,Take the lead
+睡着,sleep
+松,loose
+松树,pine
+塑料,plastic
+酸奶,Yogurt
+随手,Casually
+孙女,granddaughter
+孙子,grandson
+缩小,Zoom out
+台上,On stage
+套餐,Set meal
+特价,Special offer
+体操,gymnastics
+体检,Physical examination
+体重,body weight
+替,for
+替代,Substitute
+填,fill
+挑,pick
+挑选,Pick
+挑,pick
+贴,paste
+停下,Stop
+通知书,Notice
+童年,childhood
+投,cast
+投入,Invest in
+投诉,Complaint
+透,through
+途中,en route
+外汇,Foreign exchange
+外交官,diplomat
+外套,coat
+弯,bend
+晚点,late
+王,king
+网络,The internet
+网址,URL
+微信,Wechat
+维护,maintain
+维修,service
+位于,lie in
+味儿,Taste
+稳,stable
+无法,Unable to
+无所谓,It doesn&#39;t matter
+无限,unlimited
+五颜六色,Colorful
+吸,Suck
+吸管,straw
+吸烟,Smoking
+喜爱,favorite
+细,fine
+下个月,next month
+下降,decline
+下楼,Go downstairs
+夏季,summer
+鲜,fresh
+鲜花,Fresh flowers
+限制,limit
+箱,box
+箱子,box
+项,item
+相片,photo
+小吃,snack
+小伙子,Young man
+小型,Small
+新型,New type
+型,type
+型号,model
+兴趣,interest
+胸部,chest
+修理,repair
+学分,credit
+学年,school year
+学时,Class hours
+牙,tooth
+牙刷,toothbrush
+亚运会,Asian Games
+严,strict
+研究,the study
+研究生,Postgraduate
+研制,Develop
+眼镜,glasses
+眼泪,Tears
+眼里,In the eyes
+演讲,Speech
+药物,drug
+要,want
+医疗,Medical treatment
+医学,medicine
+一律,Always
+一再,repeatedly
+移,shift
+以内,Within
+一般来说,Generally speaking
+引,lead
+引进,Bring in
+应,should
+赢得,win
+优良,excellent
+邮局,post Office
+有劲儿,Vigorous
+有限,limited
+语音,voice
+玉,jade
+预测,prediction
+遇,Meet
+遇见,meet
+圆,round
+月底,End of month
+运动会,Sports meeting
+运动员,athlete
+在乎,care
+在于,Lies in
+赞赏,Praise
+战胜,Defeat
+战士,warrior
+招呼,call
+着火,on fire
+针,needle
+之后,after that
+之间,between
+之前,prior to
+之一,one
+制订,Formulate
+治,rule
+种类,species
+中奖,Win a lottery
+种植,Planting
+逐渐,gradually
+主题,theme
+转动,Rotate
+转身,Turn around
+转弯,Turn
+装修,Decoration
+装置,Device
+自,from
+自信,confidence
+字母,letter
+嘴巴,mouth
+作出,Make
+做梦,dream
+,

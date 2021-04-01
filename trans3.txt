@@ -1,0 +1,390 @@
+按,press
+白菜,Chinese cabbage
+班级,class
+搬家,move
+板,board
+保,Protect
+保安,Security guard
+报,Report
+报到,check in
+报道,Report
+背,Back
+北部,North
+背,Back
+背后,behind
+被,Be
+变为,Becomes
+表达,expression
+表演,Performance
+并,and
+播出,Broadcast
+播放,Play
+不必,Don&#39;t have to
+不论,whether
+补,Make up
+不光,not only
+步,step
+部,unit
+部长,minister
+才能,Ability
+采用,use
+彩色,color
+长处,Strengths
+长期,long
+厂,plant
+超级,super
+吵,noisy
+衬衣,shirt
+称为,Called
+成熟,mature
+城,city
+重,weight
+初,early
+初,early
+初中,junior high school
+传,pass
+传来,Came
+村,village
+存,Save
+错误,error
+打破,break in
+代,generation
+代表,representative
+代表团,delegation
+带动,drive
+当地,local
+当中,among
+得分,Score
+底下,under
+电视剧,TV series
+电视台,TV station
+调,Tune
+订,Order
+东部,east
+动人,moving
+读者,reader
+短处,Shortcomings
+短裤,shorts
+短期,short term
+断,Cut off
+队员,Players
+顿,pause
+发出,issue
+发送,send
+范围,range
+防,Guard against
+房东,landlord
+房屋,houses
+房租,rent
+访问,access
+放到,Put to
+飞行,flight
+费,fee
+费用,cost
+分组,Grouping
+福,blessing
+父母,parents
+付,pay
+改造,Retrofit
+赶,Rush
+赶到,Arrived
+敢,dare
+干吗,Why
+高速,high speed
+高速公路,highway
+歌迷,Fans
+歌声,singing
+歌手,singer
+各地,Everywhere
+各位,Everybody
+各种,Various
+各自,respective
+更加,more
+工夫,time
+工具,tool
+公共,public
+公务员,Civil servant
+功夫,effort
+功课,homework
+共有,Share
+古,ancient
+关注,attention
+观看,Watch
+管,tube
+国内,domestic
+国庆,National Day
+果然,really
+果汁,fruit juice
+哈哈,Haha
+好好,Good
+合,Combine
+红茶,black tea
+红酒,Red wine
+后面,Behind
+后年,The next year
+互联网,the Internet
+划船,boating
+华人,Chinese
+化,Transform
+话剧,Drama
+环,ring
+环保,Environmental protection
+会员,member
+活,live
+基本上,basically
+…极了,…Extremely
+加快,accelerate
+加强,strengthen
+价钱,price
+架,frame
+建,build
+建成,Built
+建议,Suggest
+交费,Pay
+交警,Traffic police
+交往,Associate
+较,More
+解开,Untie
+金,gold
+金牌,gold medal
+仅,only
+仅仅,only
+紧,tight
+进一步,further
+近期,Recent
+精神,spirit
+精神,spirit
+景色,view
+静,Quiet
+就是,Just
+具有,have
+剧场,theater
+开业,Opened
+看起来,It looks like
+看上去,It looks
+科技,Technology
+可乐,Coke
+空,air
+空儿,Empty
+快速,fast
+老太太,old lady
+老头儿,Old man
+乐,fun
+类,class
+里面,inside
+力,force
+连续,continuous
+连续剧,Series
+联合国,United Nations
+凉水,cold water
+领,collar
+另一方面,on the other hand
+留学,Study abroad
+录,record
+路线,route
+旅馆,hostel
+旅行社,Travel agency
+绿茶,green tea
+慢慢,Slowly
+毛,hair
+没用,Useless
+媒体,media
+美,nice
+美好,Beautiful
+美食,Gourmet food
+美元,U.S. dollar
+迷,fan
+奶茶,Milk tea
+男子,man
+南部,South
+难度,Difficulty
+内心,heart
+能不能,Can you
+年初,The beginning of the year
+年底,End of the year
+牛,Cattle
+农村,Rural area
+女子,woman
+怕,afraid
+排,row
+排名,Rank
+牌子,brand
+配,Match
+皮,skin
+皮包,Purses
+票价,fare
+期,period
+齐,Qi
+前后,Before and after
+前进,go ahead
+前往,Go to
+强,Strong
+强大,powerful
+巧,Clever
+亲,Dear
+亲人,Relatives
+情感,emotion
+区,Area
+全场,Audience
+全球,global
+缺,lack
+群,group
+人民,people
+人民币,Renminbi
+人群,crowd
+认出,make out
+认得,Recognize
+任,Ren
+任,Ren
+仍,still
+沙子,sand
+伤,hurt
+上来,Come up
+上面,Above
+上去,Go up
+上升,rise
+上衣,coat
+身份证,ID card
+深入,Go deep
+生,Give birth
+生意,business
+生长,Grow
+胜,Win
+时,Time
+实际上,Actually
+实行,Implement
+实验室,laboratory
+食品,food
+使,Make
+世界杯,World Cup
+市场,market
+事实上,In fact
+试题,Test questions
+适用,Be applicable
+室,room
+收费,toll
+收看,Watch
+收听,Listen to
+受,Receive
+熟人,acquaintance
+属,Belong to
+随,Follow
+所长,Director
+谈话,conversation
+糖,sugar
+特色,Feature
+调,Tune
+跳,jump
+跳高,high jump
+跳远,long jump
+铁,iron
+铁路,railway
+听力,hearing
+听众,audience
+停止,Stop
+通信,Communication
+痛,pain
+头,head
+头脑,mind
+图,Figure
+图画,picture
+土,earth
+推动,promote
+推进,Advance
+推开,Push away
+退出,drop out
+外面,outside
+外文,foreign language
+围,Encircle
+卫生,health
+卫生间,bathroom
+文字,Text
+握手,shake hands
+武器,arms
+舞台,stage
+西部,west
+下来,Come down
+下面,the following
+下去,Go down
+现代,modern
+现金,cash
+线,line
+相比,compared to
+相互,mutual
+写作,writing
+血,blood
+心,heart
+信,letter
+信封,envelope
+信任,trust
+行李,Baggage
+性,Sex
+修,repair
+学费,tuition
+压,Pressure
+烟,smoke
+眼前,In front of
+演,play
+演唱,Sing
+演唱会,concert
+羊,sheep
+要是,if
+衣架,hanger
+已,Already
+一方面,on the one hand
+银牌,silver medal
+应当,should
+影视,Film and television
+邮件,mail
+邮票,stamp
+邮箱,mailbox
+游,tour
+有的是,Some are
+有效,effective
+预计,Expected
+员,member
+员工,Employee
+约,approximately
+乐队,band
+早已,Already
+造,Make
+增长,increase
+张,Zhang
+照,According to
+者,By
+争,Contend
+整,whole
+整齐,neat
+整天,All day
+整整,full
+证,certificate
+支付,Pay
+直到,until
+值,value
+职工,staff
+只是,just
+只有,only
+指出,Point out
+志愿,volunteer
+制造,manufacture
+中部,Central
+中华民族,Chinese nation
+钟,bell
+重大,major
+猪,pig
+主动,initiative
+主任,director
+祝,wish
+抓,Grab
+抓住,Seize
+转,turn
+追,chase
+准,quasi-
+子女,child
+自身,itself
+总,total
+足够,enough
+足球,football
+左右,about
+做客,Be a guest
+,
