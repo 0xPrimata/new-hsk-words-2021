@@ -1,3 +1,4 @@
+hanzi,translation
 白天,day
 半年,Half a year
 半天,long time

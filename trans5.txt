@@ -1,849 +1,491 @@
-挨着,Next to
-挨打,Beaten
-安检,Security check
-罢了,Nothing more
-白领,White collar
-百分点,percentage point
-办公,Office
-办事处,office
-办学,Run a school
-半决赛,Semifinal
-保健,health care
-报刊,press
-报考,Apply for
-暴风雨,storm
-暴雨,rainstorm
-爆,burst
-背心,vest
-背着,Carry
-奔跑,run
-本地,local
-本期,This period
-本土,Native
-逼,force
-笔试,written examination
-必将,Sure to
-必修,Compulsory
-闭,close
-编制,prepared by
-变更,change
-变换,Transform
-变形,Deformed
-便是,Is
-遍地,Everywhere
-表面上,On the surface
-病房,Ward
-病情,Condition
-拨打,Dial
-波动,fluctuation
-播,broadcast
-不便,inconvenient
-不见,not see
-不再,no longer
-不至于,Not less than
-补考,Make-up exam
-补课,Make up
-补习,Tuition
-补助,Subsidy
-捕,catch
-不成,Fail
-不仅仅,Not just
-不通,Nowhere
-不怎么,not very
-不怎么样,not so good
-不值,not worth
-布满,Full of
-部队,force
-参赛,Participate
-参展,Exhibitors
-餐,meal
-残疾,Disability
-残疾人,Handicapped
-惨,awful
-藏,Tibetan
-厕所,WC
-侧,side
-测定,Determination
-层面,Level
-差异,difference
-查出,find out
-查看,View
-拆迁,Demolition
-产量,Yield
-长短,length
-长假,Long holiday
-长久,long
-长跑,Long run
-长远,long
-常规,conventional
-常年,Perennial
-厂商,Vendor
-场地,site
-场馆,Venue
-场景,Scenes
-超,ultra
-超出,Beyond
-炒股,Stocks
-炒作,Hype
-车号,Car number
-车牌,License plate
-车展,Auto show
-撤离,Evacuate
-撑,support
-成,to make
-成品,Finished product
-城区,Urban area
-城乡,Urban and rural
-城镇,town
-持有,hold
-重建,reconstruction
-重组,Reorganization
-出场,Appearance
-出动,Dispatch
-出访,Visit
-出面,Come forward
-出名,famous
-出入,Go in and out
-出事,Accident
-出台,Introduced
-出行,Travel
-初等,Elementary
-除,except
-厨师,chef
-处处,Everywhere
-处长,Director
-传出,Outgoing
-传媒,Media
-传输,transmission
-传言,Rumors
-船员,crew
-船长,captain
-船只,vessel
-窗口,window
-创办,Founded
-创建,create
-创意,Creativity
-此处,Here
-此次,This time
-此前,Before
-此事,This matter
-此致,Sincerely
-次数,frequency
-从不,Never
-从没,Never
-村庄,village
-错过,miss
-打动,move
-打断,interrupt
-打发,Send
-打牌,play cards
-打印机,printer
-打造,Build
-大道,Avenue
-大街,Main street
-大力,vigorously
-大米,Rice
-大批,A large number
-大赛,Contest
-大师,Grandmaster
-大使,ambassador
-待会儿,Later
-担忧,Worries
-单打,singles
-当成,Treat as
-当天,That day
-当作,Treat as
-档,files
-岛,island
-到期,maturity
-盗版,Piracy
-道教,Taoism
-低头,Head down
-低温,Low temperature
-地板,floor
-地名,Place name
-地下室,basement
-电车,tram
-电动,electric
-电力,electricity
-电器,Electrical appliances
-调研,Research
-定价,Pricing
-定时,timing
-定位,Positioning
-动画,Animation
-都市,city
-赌,bet
-渡,Crossing
-短片,Short film
-对外,foreign
-多半,most
-多方面,Many aspects
-多媒体,multimedia
-夺,Seize
-夺取,Seize
-恩人,benefactor
-儿科,Pediatrics
-发病,Onset
-发电,Power generation
-发放,Issue
-发怒,Get angry
-发起,Initiate
-发言人,spokesman
-法庭,court
-法语,French
-番茄,tomato
-凡是,all
-反响,repercussions
-犯,Commit
-犯规,foul
-犯罪,crime
-防范,Guard against
-房价,House price
-飞船,spaceship
-飞行员,pilot
-肺,lung
-分工,Division of labor
-愤怒,anger
-峰会,Summit
-佛,Buddha
-佛教,Buddhism
-服,clothes
-浮,float
-父女,Father and daughter
-父子,Father and son
-负,negative
-复苏,recovery
-富人,The rich
-富有,rich
-改装,Refit
-肝,liver
-杆,Rod
-赶不上,Can&#39;t keep up
-赶忙,quickly
-赶上,catch up
-敢于,Dare to
-感人,Touching
-刚好,just
-高层,High-level
-高等,higher
-高考,College entrance examination
-高科技,high tech
-高手,Master
-稿子,Manuscript
-歌唱,singing
-歌词,lyrics
-歌星,Singer
-革新,innovation
-更是,even more
-工商,Business
-公,public
-公安,public security
-公鸡,cock
-公众,public
-宫,palace
-构建,Construct
-孤儿,orphan
-股,share
-顾,Gu
-刮,scratch
-拐,Abduction
-关爱,Caring
-关联,Associate
-官司,lawsuit
-管道,pipeline
-国产,Domestic
-国歌,National anthem
-国会,Congress
-国旗,National flag
-国王,king
-果酱,jam
-果树,Fruit tree
-过后,After
-过时,Obsolete
-海报,poster
-海底,seabed
-海军,navy
-海浪,Waves
-海外,overseas
-海湾,bay
-好似,Like
-好转,Get better
-好学,Studious
-合约,contract
-黑夜,Night
-很难说,Hard to say
-狠,ruthless
-横,horizontal
-衡量,measure
-宏大,grand
-互动,interactive
-户外,outdoor
-护,Protect
-花费,spend
-花瓶,vase
-化解,Resolve
-皇帝,emperor
-回应,Respond to
-毁,destroy
-会见,meet
-会长,President
-绘画,painting
-昏,faint
-混,mix
-机动车,Motor vehicle
-机关,organ
-基督教,Christian
-吉利,auspicious
-急救,first aid
-集,set
-加盟,Join
-家电,Home appliances
-家园,home
-假日,holiday
-尖,tip
-监测,monitor
-简介,Introduction
-剑,sword
-箭,arrow
-讲课,lecture
-酱,sauce
-脚印,footprint
-觉,feel
-教堂,church
-教育部,Ministry of Education
-接收,receive
-揭,Uncover
-街头,street
-节,Section
-节假日,Holidays
-节能,Energy saving
-截止,Cut off
-解,solution
-解说,Commentary
-界,World
-界,World
-金额,Amount
-金钱,money
-尽,Exhausted
-近日,recently
-近视,myopia
-惊人,amazing
-惊喜,Surprise
-精,fine
-精美,fine
-精品,Boutique
-景,view
-景点,Attractions
-净,net
-酒水,Drinks
-救命,Help
-救援,Rescue
-救助,Rescue
-就是说,that is
-就算,Even if
-局,Bureau
-剧,drama
-据,according to
-捐款,Donate
-捐赠,Donate
-捐助,Donate
-绝,Absolutely
-绝大多数,Overwhelming majority
-军舰,warship
-开创,Create
-开关,switch
-开设,open
-开通,Open
-开头,beginning
-开夜车,Drive at night
-看,Look
-看管,Watch over
-看得见,visible
-看得起,Worthy of
-看好,Optimistic about
-看作,See
-康复,Recovery
-抗议,protest
-考场,examination room
-考题,Exam questions
-科研,research
-客车,bus
-肯,Ken
-空军,air force
-口试,oral
-扣,buckle
-酷,Cool
-快车,express train
-宽阔,wide
-矿,mine
-阔,wide
-来往,Contact
-赖,rely
-蓝领,Blue collar
-蓝天,Blue sky
-牢,prison
-老乡,Fellow
-冷气,Air conditioner
-冷水,cold water
-礼堂,hall
-理,Reason
-理财,Financial management
-力,force
-利,Profit
-联赛,League
-联手,Join hands
-凉鞋,sandals
-两侧,Both sides
-两手,Two hands
-聊,chat
-聊天儿,Chat
-料,material
-料,material
-裂,crack
-领取,receive
-另,another
-留言,leave a message
-流感,influenza
-楼道,corridor
-楼房,Building
-露,dew
-陆军,army
-录像,Video
-录音机,recorder
-路过,Passing by
-露,dew
-旅店,Inn
-绿化,Greening
-马车,carriage
-埋,Buried
-慢车,local
-盲人,blind
-梅花,Plum blossom
-美容,Beauty
-蒙,Mongolian
-蒙,Mongolian
-猛,fierce
-棉,cotton
-面对面,Face to face
-面向,Face to
-妙,wonderful
-灭,Extinguish
-民歌,folk song
-民工,Migrant workers
-民警,Police
-民意,public opinion
-民主,democracy
-名胜,Place of interest
-名义,name
-明日,tomorrow
-命,Life
-磨,mill
-没收,Confiscate
-墨水,ink
-母,mother
-母鸡,hen
-母女,Mother and daughter
-母子,Mother and child
-墓,tomb
-拿走,Take away
-奶粉,milk powder
-奶牛,Cows
-难忘,memorable
-内地,Mainland
-内外,inside and outside
-内衣,underwear
-能否,Can
-泥,mud
-扭,Twist
-排行榜,Leaderboard
-派出,send
-判,Judge
-泡,bubble
-炮,gun
-陪同,Accompany
-配置,Configuration
-皮球,Ball
-偏,Partial
-品牌,Brand
-聘请,hire
-平方米,Square meter
-平台,platform
-评,Comment
-评选,Selection
-屏幕,screen
-企图,attempt
-起点,starting point
-起诉,Prosecute
-恰好,exactly
-恰恰,precisely
-牵,Lead
-铅笔,pencil
-前方,Ahead
-前来,Come
-强盗,robber
-强化,strengthen
-强势,Strong
-强壮,strong
-茄子,eggplant
-亲属,relatives
-亲眼,With your own eyes
-清,clear
-清洁工,Cleaner
-清明节,Ching Ming Festival
-清洗,Cleaning
-求职,Job hunting
-球拍,racket
-球星,Star
-球员,Player
-取款,Withdrawal
-取款机,ATM
-去掉,Get rid of
-权,right
-全力,Full force
-全新,brand new
-券,Coupon
-却是,but it is
-让座,Give up
-热点,Hot spot
-热水,Hot water
-热水器,Water heater
-热线,hotline
-人权,human rights
-认同,Identify with
-日夜,day and night
-日语,Japanese
-融合,Fusion
-融入,assimilate into
-如,Such as
-如一,As one
-乳制品,Dairy products
-入,Enter
-入学,Admission
-若,If
-塞,Stop
-赛,Match
-赛场,Arena
-三明治,sandwich
-山峰,mountain peak
-山谷,valley
-山坡,hillside
-伤口,wound
-伤亡,casualties
-伤员,Wounded
-商城,Mall
-上帝,God
-上市,Listed
-上台,On stage
-上演,Staged
-勺,Spoon
-少儿,Children
-舌头,tongue
-设计师,Designer
-深化,deepen
-深深,deeply
-升级,upgrade
-升学,Go to school
-升值,appreciation
-生活费,living expenses
-省钱,save money
-圣诞节,Christmas
-师父,Master
-师生,Teachers and students
-时节,season
-时时,From time to time
-时装,Fashion
-识,knowledge
-识字,Literacy
-食欲,appetite
-市民,Citizen
-事后,afterwards
-试点,Pilot
-适当,appropriate
-收取,Charge
-收养,adoption
-手续费,Handling fee
-首,first
-首次,first
-首脑,summit
-首席,chief
-首相,prime minister
-书房,study
-薯片,Potato chips
-薯条,French fries
-双打,Doubles
-爽,Cool
-顺,Shun
-说明书,Manual
-说实话,to be honest
-司长,Director
-四处,around
-寺,Temple
-送礼,Present
-送行,See off
-算了,Forget it
-算是,Be regarded as
-虽,although
-岁数,age
-塔,tower
-踏,tread
-台灯,table lamp
-太阳能,Solar energy
-趟,trip
-特,special
-特大,Extra large
-特地,specially
-特快,express
-特意,specially
-疼痛,pain
-踢,kick
-提交,submit
-提升,Promote
-天然,natural
-天下,World
-添,add
-田,field
-跳水,diving
-听取,listen to
-通报,Announce
-通道,aisle
-通红,Flush
-通话,call
-通行,Pass
-通讯,communication
-同,with
-同行,Accompany
-同期,The same period
-同一,same
-铜牌,bronze medal
-头疼,headache
-透露,disclose
-图书,books
-土,earth
-团队,team
-推出,roll out
-退票,Refund
-吞,swallow
-托,Entrust
-拖,drag
-拖鞋,flip flop
-挖,dig
-外币,foreign currency
-外部,external
-外出,Go out
-外观,Exterior
-外科,surgical
-外来,foreign
-外头,Outside
-外衣,coat
-外资,foreign investment
-弯曲,bending
-顽皮,naughty
-王后,queen
-网吧,Internet cafe
-网页,Web page
-往后,later
-往来,contacts
-往年,in previous years
-望见,See
-微波炉,Microwave oven
-为此,to this end
-为何,Why
-文娱,Entertainment
-卧铺,Sleeper
-乌云,dark clouds
-无边,Boundless
-无关,Irrelevant
-无效,invalid
-物品,article
-误,error
-西班牙语,Spanish
-吸毒,drug
-洗衣粉,washing powder
-戏曲,drama
-先锋,pioneer
-显出,Show up
-险,risk
-线路,line
-响声,sound
-想不到,Unexpected
-消灭,wipe out
-小费,tip
-小于,Less than
-晓得,know
-笑脸,Smiley
-笑容,Smile
-笑声,laughter
-协调,coordination
-写字楼,Office building
-写字台,desk
-心愿,wish
-心脏病,heart disease
-新人,Newcomer
-新兴,new
-信用,credit
-行程,stroke
-形,shape
-凶,fierce
-修车,Car repair
-袖珍,pocket
-悬,Hang
-选举,election
-学会,learn
-学员,Trainee
-血管,Blood vessel
-血液,blood
-烟花,Fireworks
-沿,along
-沿着,Along
-研发,R &amp; D
-眼看,See
-洋,foreign
-仰,Up
-养老,Pension
-样,kind
-药品,drug
-要不然,otherwise
-要好,Better
-要么,Either
-野,wild
-野生,wild
-医药,medicine
-依次,In turn
-一次性,One time
-一代,generation
-一道,Together
-一路上,Along the way
-一番,Some
-一模一样,Exactly the same
-一齐,All together
-一时,For a while
-一同,together
-一行,One line
-艺人,artist
-议题,issue
-意想不到,unexpected
-意愿,Will
-因,because
-阴影,shadow
-音量,volume
-音像,Audiovisual
-隐藏,hide
-印,Seal
-迎来,Usher in
-影迷,Fans
-影星,Movie star
-应对,response
-应急,Emergency
-用处,usefulness
-用得着,Useful
-用法,usage
-用品,Supplies
-用心,Attentively
-优质,high quality
-游人,Tourist
-游玩,play
-游戏机,Game console
-游行,procession
-有关,related
-有没有,Do you have
-有事,Something
-于,in
-与,versus
-宇航员,astronaut
-雨衣,raincoat
-预约,reservation
-园,garden
-园地,Garden
-原,original
-圆珠笔,Ballpoint pen
-援助,assistance
-缘故,reason
-远方,distance
-远离,keep away
-远远,Far away
-约定,Agreement
-乐曲,Music
-运作,Operation
-晕车,Motion sickness
-杂,miscellaneous
-再生,regeneration
-再说,Say again
-遭到,Suffered
-早晚,Sooner or later
-增进,enhance
-增值,Value-added
-炸,Fried
-炸弹,bomb
-炸药,Explosive
-债,debt
-战场,battlefield
-战友,Comrades-in-arms
-站台,Platform
-章,chapter
-掌声,applause
-账,Account
-招,trick
-这就是说,This means that
-镇,town
-整治,Rectify
-政策,policy
-政党,political party
-之类,such as
-知名,famous
-织,Weave
-直升机,Helicopter
-职责,Duty
-止,only
-只得,Had to
-只顾,Just take care of
-只管,Just mind
-指数,index
-指头,Finger
-指着,Pointing
-治病,Cure
-中等,medium
-中华,China
-中期,Mid-term
-中外,Chinese and foreign
-忠心,loyalty
-钟头,hour
-肿,swollen
-种种,All kinds of
-珠宝,Jewelry
-主持人,host
-主角,protagonist
-驻,Resident
-柱子,pillar
-祝愿,wish
-专用,dedicated
-转,turn
-转动,Rotate
-赚钱,Make money
-捉,catch
-自来水,Tap water
-自我,self
-自学,Self-study
-自言自语,Talking to oneself
-自在,comfortable
-宗教,religion
-总部,Headquarters
-总监,Director
-总经理,General manager
-总量,Total
-奏,Play
-租金,rent
-足,foot
-族,Clan
-族,Clan
-祖国,motherland
-祖母,grandmother
-钻,Drill
-最佳,optimal
-最终,finally
-罪,crime
-罪恶,sin
-作,Make
-作战,Combat
-座谈会,forum
-,
+岸上,ashore
+拔,pull
+白酒,White wine
+版,Version
+棒,Baton
+报警,Call the police
+抱怨,complain
+背包,backpack
+悲剧,tragedy
+悲伤,sad
+辈,generation
+必,must
+必需,Required
+闭幕,Closing
+闭幕式,Closing Ceremony
+变动,change
+宾馆,Hotel
+饼,cake
+博客,Blog
+不利,unfavorable
+不幸,unfortunately
+不易,Not easy
+不曾,Never
+不良,bad
+不免,Inevitably
+不能不,Can&#39;t help but
+不停,Non-stop
+不许,Not allowed
+猜测,guess
+餐馆,restaurant
+餐厅,restaurant
+餐饮,food
+草原,grassland
+叉,cross
+差别,difference
+差距,gap
+查询,Inquire
+拆除,tear down
+长度,length
+长寿,longevity
+肠,intestinal
+厂长,Plant manager
+车主,Car owner
+称²,Weigh ²
+城里,In the city
+乘,Multiply
+乘车,Ride
+乘客,passenger
+池子,pond
+迟,late
+愁,worry
+出汗,Sweating
+出于,Out of
+初期,Early
+厨房,kitchen
+处罚,Punishment
+处在,Be in
+传递,transfer
+辞典,dictionary
+此后,After that
+此刻,now
+此时,at this time
+从中,from
+脆,brittle
+存款,deposit
+寸,Inch
+答,answer
+打,hit
+大胆,Bold
+大都,Most
+大纲,Outline
+大奖赛,Grand Prix
+大脑,brain
+大事,event
+大厅,hall
+大熊猫,Giant panda
+大于,more than the
+待,To be
+带有,With
+单一,single
+胆,Guts
+胆小,timid
+当代,Contemporary
+当年,then
+到来,arrival
+倒是,But
+得了,Got it
+得以,Be able to
+等候,waiting
+低于,Below
+地带,zone
+地形,terrain
+递给,Hand it to
+点燃,ignite
+电饭锅,Rice cooker
+电子版,e-edition
+豆制品,Soy products
+毒,poison
+朵,Do
+躲,hide
+儿女,Children
+二维码,QR code
+罚,Punish
+法规,Regulations
+法制,legal system
+返回,return
+分成,Divided into
+分类,classification
+分离,Separate
+分享,share it
+封,seal
+疯,Crazy
+服从,obey
+负责人,principal
+钢笔,pen
+钢琴,piano
+高大,tall
+高度,height
+高跟鞋,High heels
+高温,high temperature
+高于,Higher than
+高原,plateau
+搞好,Do well
+歌曲,song
+个儿,height
+更换,replace
+工艺,Craft
+工作日,Working day
+共享,shared
+沟,ditch
+古老,ancient
+鼓,drum
+鼓掌,applaud
+怪,strange
+关怀,care
+光荣,glory
+光线,Light
+广,wide
+鬼,ghost
+柜子,cabinet
+国籍,Country of Citizenship
+国民,national
+害,harm
+好运,good luck
+盒,box
+盒饭,Box lunch
+贺卡,Greeting card
+猴,monkey
+胡同儿,Alley
+胡子,Moustache
+虎,tiger
+华语,Chinese
+滑,slip
+画面,Picture
+慌,Panic
+慌忙,hurried
+灰色,gray
+回头,Look back
+回信,reply
+汇款,money transfer
+会谈,talks
+火腿,Ham
+火灾,Fire
+或是,Or
+机器人,robot
+机制,mechanism
+挤,squeeze
+技能,skill
+加热,heating
+加上,Plus
+加速,accelerate
+加以,Add
+夹,folder
+价,price
+驾照,driver&#39;s license
+肩,shoulder
+减轻,Alleviate
+剪,Cut
+剪子,scissors
+建造,put up
+键,key
+将,will
+将要,will
+郊区,suburbs
+胶带,tape
+脚步,pace
+解放,liberation
+戒,Quit
+今日,today
+紧紧,tightly
+尽可能,As much as possible
+景象,scene
+酒鬼,drunkard
+救灾,Disaster relief
+局长,Director
+决不,never
+军人,soldier
+开幕,Opening
+看成,Regarded as
+看出,see
+烤肉,Barbecue
+烤鸭,Roast Duck
+靠近,near
+咳,cough
+可,can
+客气,polite
+客厅,living room
+空中,In the air
+口号,slogan
+库,Library
+宽度,width
+狂,mad
+亏,deficit
+困扰,Trouble
+落,drop
+来信,Letter
+朗读,Read aloud
+礼,ceremony
+礼拜,worship
+立,Stand up
+连接,connection
+脸盆,washbasin
+脸色,Face
+两岸,Cross-strait
+铃声,ring
+领带,tie
+令,make
+流动,flow
+漏洞,Loophole
+买卖,Buy and sell
+毛笔,Writing brush
+冒,Risk
+煤,coal
+煤气,gas
+门诊,Outpatient
+秒,second
+敏感,sensitive
+明亮,Bright
+摩托,Motorcycle
+男性,male
+南北,North and South
+南极,Antarctica
+难以,difficult
+脑子,Brain
+年前,Years ago
+牛,Cattle
+农产品,Agricultural products
+女性,female
+暖,warm
+偶像,idol
+拍摄,Shoot
+旁,beside
+赔,pay
+喷,spray
+皮鞋,leather shoes
+脾气,temper
+骗子,con man
+拼,spell
+品,Product
+品,Product
+品种,Variety
+葡萄,grape
+葡萄酒,wine
+其,its
+启动,start up
+起到,Up to
+气体,gas
+签,sign
+签订,Signed
+签名,signature
+签约,Sign up
+签字,signature
+强度,strength
+墙壁,wall
+敲门,Knock on the door
+琴,Piano
+全都,all
+全世界,worldwide
+泉,spring
+群体,group
+热量,Calories
+人力,Manpower
+忍,endure
+认,recognize
+如此,in this way
+如同,as
+如下,as follows
+入门,getting Started
+软,soft
+散,Scattered
+杀毒,Antivirus
+山区,Mountain
+扇,fan
+扇,fan
+扇子,fan
+上下,up and down
+上涨,rise
+稍,a little
+舍得,Willing
+社,Society
+射,Shoot
+摄像,Camera
+摄像机,Video camera
+摄影师,Photographer
+深处,deep
+深度,depth
+神,God
+神经,nerve
+神情,look
+升高,Elevated
+生成,generate
+声,sound
+剩下,Left
+诗歌,Poetry
+使得,Make
+式,formula
+视频,video
+视为,Regarded as
+收购,Acquisition
+收集,collect
+手段,means
+寿司,Sushi
+受灾,Disaster
+书柜,bookcase
+书桌,desk
+输出,Output
+鼠,mouse
+数目,number
+摔,fall
+摔倒,fall
+双手,Hands
+水产品,Aquatic products
+水分,Moisture
+水库,Reservoir
+水灾,flood
+睡眠,Sleep
+说法,statement
+四周,All around
+搜,Search
+搜索,search for
+酸甜苦辣,ups and downs
+随后,Subsequently
+损害,damage
+所在,Where
+抬头,look up
+弹,bomb
+逃跑,Run away
+逃走,escape
+桃花,Peach blossom
+桃树,peach
+特性,characteristic
+特有,Peculiar
+提起,Mention
+体积,volume
+体力,physical strength
+厅,hall
+停留,Stay
+偷,steal
+偷偷,secretly
+兔,rabbit
+团长,Head
+推行,Implement
+完了,It&#39;s over
+微博,Weibo
+为止,until
+为主,Mainly
+违法,Illegal
+违规,Violation
+委托,Commission
+握,grip
+污水,Sewage
+屋,house
+无疑,undoubtedly
+舞,dance
+物价,Price
+物业,Property
+西装,Suit
+喜剧,comedy
+戏,play
+先后,Successively
+闲,idle
+显,Show
+现有,existing
+献,offer
+乡,township
+乡村,rural
+香肠,sausage
+向前,forward
+向上,up
+相声,crosstalk
+消费者,consumer
+消极,negative
+小偷儿,Thief
+协议书,Agreement
+信箱,mailbox
+行驶,Driving
+雄伟,majestic
+熊,Bear
+选修,Elective
+学科,Subject
+学者,scholar
+寻求,seek
+押金,deposit
+鸭子,duck
+言语,speech
+研究所,graduate School
+摇头,Shaking his head
+也好,Also good
+夜间,at night
+依法,According to law
+依照,according to
+一带,Around
+一句话,One sentence
+一路,All the way
+一下儿,a while
+一下子,all of a sudden
+一口气,In one breath
+一身,All in one
+饮料,Drink
+印刷,print
+应,should
+硬,hard
+用不着,No need
+用来,Used to
+用于,Used for
+由此,thus
+游泳池,swimming pool
+有毒,poisonous
+有害,harmful
+有力,powerful
+有利于,beneficial to
+有着,have
+雨水,rainwater
+预备,preparation
+原有,original
+远处,far away
+怨,blame
+愿,willing
+月饼,moon cake
+月球,Moon
+阅览室,Reading room
+运,Luck
+灾,disaster
+灾区,disaster area
+再次,once again
+再也,Never again
+在场,Present
+在内,Inside
+暂停,time out
+糟,Bad
+早期,Early
+增,increase
+增产,Increase production
+增大,Increase
+增多,increase
+增强,Enhance
+赠,Gift
+占有,Possess
+涨价,Price increase
+招生,Admissions
+招手,wave
+真诚,sincere
+真理,truth
+正版,Genuine
+正如,Just like
+挣,earn
+挣钱,Earn money
+之内,within
+之外,Outside
+之下,under
+之中,Among
+执行,carried out
+直线,straight line
+只不过,only
+只见,I saw
+至,to
+制成,production
+中秋节,Moon Festival
+中药,traditional Chinese medicine
+中毒,Poisoning
+众多,numerous
+主体,main body
+专辑,Album
+转化,Transform
+转换,Conversion
+转向,Turn to
+撞,hit
+自杀,suicide
+总数,total
+总体,overall
+组织,organization

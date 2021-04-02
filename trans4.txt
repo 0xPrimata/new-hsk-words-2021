@@ -1,3 +1,4 @@
+hanzi,translation
 矮小,Short
 爱国,patriotic
 安,An
@@ -419,4 +420,3 @@
 嘴巴,mouth
 作出,Make
 做梦,dream
-,

@@ -18,16 +18,8 @@ def translate(files):
         text.append(a)
     return text
 
-# for i in range(0, 6):
-#     file = translate(new[i])
-#     with open(f'trans{i+1}.txt', 'w',encoding='utf8') as f:
-#         for item in file:
-#             f.write("%s\n" % item)
-file = translate(new[0])
-with open(f'trans{1}.txt', 'w',encoding='utf8') as f:
+
+file = translate(new[4])
+with open(f'trans{5}.txt', 'w',encoding='utf8') as f:
     for item in file:
-        f.write("%s\n" % item)
-file2 = translate(new[5])
-with open(f'trans{6}.txt', 'w',encoding='utf8') as f:
-    for item in file2:
         f.write("%s\n" % item)

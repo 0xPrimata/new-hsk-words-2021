@@ -1,0 +1,233 @@
+hanzi,translation,pinyin
+白天,day,báitiān
+半年,Half a year,bànnián
+半天,long time,bàntiān
+帮,help,bāng
+包子,bun,bāozi
+杯,cup,bēi
+北,north,běi
+北边,North side,běibiān
+本子,book,běnzi
+别的,Other,biéde
+别人,other people,biérén
+病,disease,bìng
+病人,patient,bìngrén
+不大,Not big,bùdà
+不对,wrong,búduì
+不用,No need to,bùyòng
+常,often,cháng
+常常,often,chángcháng
+唱,sing,chàng
+车,car,chē
+车票,ticket,chēpiào
+车上,In the car,chēshàng
+车站,station,chēzhàn
+吃饭,eat,chīfàn
+出来,come out,chūlái
+出去,Go out,chūqù
+床,bed,chuáng
+从,From,cóng
+打,hit,dǎ
+打车,Take a taxi,dǎchē
+打开,turn on,dǎkāi
+打球,Play ball,dǎqiú
+大学,the University,dàxué
+大学生,College Students,dàxuéshēng
+得到,get,dédào
+地点,location,dìdiǎn
+地上,On the ground,dìshàng
+第,First,dì
+电,Electricity,diàn
+电话,phone,diànhuà
+电视机,TV set,diànshìjī
+电影院,cinema,diànyǐngyuàn
+东边,East side,dōngbiān
+动,move,dòng
+读书,reading,dúshū
+饭,rice,fàn
+饭店,restaurant,fàndiàn
+房子,house,fángzi
+放假,holiday,fàngjià
+放学,After school,fàngxué
+飞,fly,fēi
+风,wind,fēng
+干,dry,gàn
+干,dry,gàn
+干什么,What to do,gànshénme
+歌,song,gē
+关上,close,guānshàng
+国,country,guó
+国外,foreign,guówài
+还有,and also,háiyǒu
+汉字,Chinese character,hànzì
+好看,good looking,hǎokàn
+好听,Nice,hǎotīng
+好玩儿,Fun,hǎowánér
+号,number,hào
+后,Rear,hòu
+后边,behind,hòubiān
+后天,acquired,hòutiān
+话,words,huà
+回答,Reply,huídá
+回到,Back to,huídào
+回家,Come back home,huíjiā
+回来,come back,huílái
+回去,go back,huíqù
+火车,train,huǒchē
+机票,Air tickets,jīpiào
+几,a few,jǐ
+记,Remember,jì
+记住,remember,jìzhù
+家里,Home,jiālǐ
+家人,family,jiārén
+间,between,jiān
+见,see,jiàn
+教学楼,Teaching building,jiàoxuélóu
+今年,this year,jīnnián
+进来,Come in,jìnlái
+进去,Go in,jìnqù
+开车,Drive,kāichē
+开会,Have a meeting,kāihuì
+看,Look,kàn
+看病,see a doctor,kànbìng
+看到,see,kàndào
+考,test,kǎo
+课本,textbook,kèběn
+课文,text,kèwén
+来到,come,láidào
+老人,Old man,lǎorén
+累,tired,lèi
+里边,inside,lǐbiān
+零,zero,líng
+楼上,upstairs,lóushàng
+楼下,downstairs,lóuxià
+路口,intersection,lùkǒu
+路上,On the road,lùshàng
+马路,road,mǎlù
+马上,immediately,mǎshàng
+毛,hair,máo
+没,No,méi
+没什么,It&#39;s nothing,méishénme
+没事儿,It&#39;s okay,méishìér
+没有,No,méiyǒu
+门口,Doorway,ménkǒu
+门票,Tickets,ménpiào
+们,They,men
+面条儿,Noodles,miàntiáoér
+明年,next year,míngnián
+哪里,where,nǎlǐ
+哪些,Which,něixiē
+那边,there,nàbiān
+那里,There,nàlǐ
+那儿,there,nàér
+那些,Those ones,nèixiē
+奶,milk,nǎi
+男,male,nán
+男孩儿,boy,nánháier
+男朋友,boyfriend,nánpéngyǒu
+男人,the man,nánrén
+男生,Boys,nánshēng
+南边,South side,nánbiān
+你们,you guys,nǐmen
+女,Female,nǚ
+女孩儿,Girl,nǚháiér
+女朋友,girlfriend,nǚpéngyǒu
+女人,woman,nǚrén
+女生,Schoolgirl,nǚshēng
+跑,run,pǎo
+起,From,qǐ
+起来,stand up,qǐlái
+汽车,car,qìchē
+前,before,qián
+前边,Front,qiánbiān
+前天,The day before yesterday,qiántiān
+钱包,wallet,qiánbāo
+请假,Ask for leave,qǐngjià
+请进,Please come in,qǐngjìn
+请问,Excuse me,qǐngwèn
+请坐,Please sit down,qǐngzuò
+球,ball,qiú
+日,day,rì
+肉,meat,ròu
+山,mountain,shān
+商场,the mall,shāngchǎng
+上,on,shàng
+上边,Above,shàngbiān
+上车,boarding,shàngchē
+上次,Last time,shàngcì
+上课,Go to class,shàngkè
+上学,go to school,shàngxué
+身上,Body,shēnshàng
+事,thing,shì
+试,test,shì
+是不是,is not it,shìbúshì
+手,hand,shǒu
+书包,school bag,shūbāo
+书店,bookstore,shūdiàn
+水果,fruit,shuǐguǒ
+睡,sleep,shuì
+说,Say,shuō
+说话,speak,shuōhuà
+他们,they,tāmen
+她们,they,tāmen
+天,day,tiān
+听到,Hear,tīngdào
+听见,hear,tīngjiàn
+听写,dictation,tīngxiě
+外边,outside,wàibiān
+外国,Foreign country,wàiguó
+外语,foreign language,wàiyǔ
+玩儿,play,wánér
+晚,late,wǎn
+晚饭,dinner,wǎnfàn
+网上,Online,wǎngshàng
+网友,Netizen,wǎngyǒu
+忘,forget,wàng
+午饭,lunch,wǔfàn
+西边,West side,xībiān
+下班,Off work,xiàbān
+下边,below,xiàbiān
+下车,get off,xiàchē
+下次,Next time,xiàcì
+下课,End of get out of class,xiàkè
+小孩儿,child,xiǎoháiér
+小朋友,Kids,xiǎopéngyǒu
+小学,primary school,xiǎoxué
+小学生,Elementary school student,xiǎoxuéshēng
+新年,new Year,xīnnián
+星期日,on Sunday,xīngqīrì
+星期天,Sunday,xīngqītiān
+学,learn,xué
+学院,Academy,xuéyuàn
+要,want,yào
+一半,half,yíbàn
+一块儿,Together,yīkuàiér
+一下儿,a while,yīxiàér
+一点儿,a little,yìdiǎnér
+一些,some,yīxiē
+有的,some,yǒude
+有时候,sometimes,yǒushíhòu
+有用,it works,yǒuyòng
+右,right,yòu
+雨,rain,yǔ
+元,yuan,yuán
+在家,At home,zàijiā
+早,early,zǎo
+早饭,breakfast,zǎofàn
+找到,turn up,zhǎodào
+这边,Here,zhèbiān
+这里,Here,zhèlǐ
+这儿,here,zhèér
+这些,These ones,zhèxiē
+真的,Really,zhēnde
+知道,know,zhīdào
+中,in,zhōng
+中文,Chinese,zhōngwén
+中学,Middle school,zhōngxué
+中学生,middle School student,zhōngxuéshēng
+重,weight,zhòng
+子,child,zi
+走路,walk,zǒulù
+最后,At last,zuìhòu
+左,left,zuǒ
+坐下,sit down,zuòxià

@@ -1,0 +1,390 @@
+hanzi,translation,pinyin
+按,press,àn
+白菜,Chinese cabbage,báicài
+班级,class,bānjí
+搬家,move,bānjiā
+板,board,bǎn
+保,Protect,bǎo
+保安,Security guard,bǎoān
+报,Report,bào
+报到,check in,bàodào
+报道,Report,bàodào
+背,Back,bèi
+北部,North,běibù
+背,Back,bèi
+背后,behind,bèihòu
+被,Be,bèi
+变为,Becomes,biànwèi
+表达,expression,biǎodá
+表演,Performance,biǎoyǎn
+并,and,bìng
+播出,Broadcast,bōchū
+播放,Play,bōfàng
+不必,Don&#39;t have to,bùbì
+不论,whether,bùlùn
+补,Make up,bǔ
+不光,not only,bùguāng
+步,step,bù
+部,unit,bù
+部长,minister,bùzhǎng
+才能,Ability,cáinéng
+采用,use,cǎiyòng
+彩色,color,cǎisè
+长处,Strengths,chángchù
+长期,long,chángqī
+厂,plant,chǎng
+超级,super,chāojí
+吵,noisy,chǎo
+衬衣,shirt,chènyī
+称为,Called,chēngwéi
+成熟,mature,chéngshú
+城,city,chéng
+重,weight,zhòng
+初,early,chū
+初,early,chū
+初中,junior high school,chūzhōng
+传,pass,chuán
+传来,Came,chuánlái
+村,village,cūn
+存,Save,cún
+错误,error,cuòwù
+打破,break in,dǎpò
+代,generation,dài
+代表,representative,dàibiǎo
+代表团,delegation,dàibiǎotuán
+带动,drive,dàidòng
+当地,local,dāngdì
+当中,among,dāngzhōng
+得分,Score,défēn
+底下,under,dǐxià
+电视剧,TV series,diànshìjù
+电视台,TV station,diànshìtái
+调,Tune,diào
+订,Order,dìng
+东部,east,dōngbù
+动人,moving,dòngrén
+读者,reader,dúzhě
+短处,Shortcomings,duǎnchù
+短裤,shorts,duǎnkù
+短期,short term,duǎnqī
+断,Cut off,duàn
+队员,Players,duìyuán
+顿,pause,dùn
+发出,issue,fāchū
+发送,send,fāsòng
+范围,range,fànwéi
+防,Guard against,fáng
+房东,landlord,fángdōng
+房屋,houses,fángwū
+房租,rent,fángzū
+访问,access,fǎngwèn
+放到,Put to,fàngdào
+飞行,flight,fēixíng
+费,fee,fèi
+费用,cost,fèiyòng
+分组,Grouping,fēnzǔ
+福,blessing,fú
+父母,parents,fùmǔ
+付,pay,fù
+改造,Retrofit,gǎizào
+赶,Rush,gǎn
+赶到,Arrived,gǎndào
+敢,dare,gǎn
+干吗,Why,gànmá
+高速,high speed,gāosù
+高速公路,highway,gāosùgōnglù
+歌迷,Fans,gēmí
+歌声,singing,gēshēng
+歌手,singer,gēshǒu
+各地,Everywhere,gèdì
+各位,Everybody,gèwèi
+各种,Various,gèzhǒng
+各自,respective,gèzì
+更加,more,gèngjiā
+工夫,time,gōngfū
+工具,tool,gōngjù
+公共,public,gōnggòng
+公务员,Civil servant,gōngwùyuán
+功夫,effort,gōngfū
+功课,homework,gōngkè
+共有,Share,gòngyǒu
+古,ancient,gǔ
+关注,attention,guānzhù
+观看,Watch,guānkàn
+管,tube,guǎn
+国内,domestic,guónèi
+国庆,National Day,guóqìng
+果然,really,guǒrán
+果汁,fruit juice,guǒzhī
+哈哈,Haha,hāhā
+好好,Good,hǎohǎo
+合,Combine,hé
+红茶,black tea,hóngchá
+红酒,Red wine,hóngjiǔ
+后面,Behind,hòumiàn
+后年,The next year,hòunián
+互联网,the Internet,hùliánwǎng
+划船,boating,huáchuán
+华人,Chinese,huárén
+化,Transform,huà
+话剧,Drama,huàjù
+环,ring,huán
+环保,Environmental protection,huánbǎo
+会员,member,huìyuán
+活,live,huó
+基本上,basically,jīběnshàng
+…极了,…Extremely,…jíle
+加快,accelerate,jiākuài
+加强,strengthen,jiāqiáng
+价钱,price,jiàqián
+架,frame,jià
+建,build,jiàn
+建成,Built,jiànchéng
+建议,Suggest,jiànyì
+交费,Pay,jiāofèi
+交警,Traffic police,jiāojǐng
+交往,Associate,jiāowǎng
+较,More,jiào
+解开,Untie,jiěkāi
+金,gold,jīn
+金牌,gold medal,jīnpái
+仅,only,jǐn
+仅仅,only,jǐnjǐn
+紧,tight,jǐn
+进一步,further,jìnyíbù
+近期,Recent,jìnqī
+精神,spirit,jīngshén
+精神,spirit,jīngshén
+景色,view,jǐngsè
+静,Quiet,jìng
+就是,Just,jiùshì
+具有,have,jùyǒu
+剧场,theater,jùchǎng
+开业,Opened,kāiyè
+看起来,It looks like,kànqǐlái
+看上去,It looks,kànshàngqù
+科技,Technology,kējì
+可乐,Coke,kělè
+空,air,kōng
+空儿,Empty,kòngér
+快速,fast,kuàisù
+老太太,old lady,lǎotàitài
+老头儿,Old man,lǎotouer
+乐,fun,lè
+类,class,lèi
+里面,inside,lǐmiàn
+力,force,lì
+连续,continuous,liánxù
+连续剧,Series,liánxùjù
+联合国,United Nations,liánhéguó
+凉水,cold water,liángshuǐ
+领,collar,lǐng
+另一方面,on the other hand,lìngyìfāngmiàn
+留学,Study abroad,liúxué
+录,record,lù
+路线,route,lùxiàn
+旅馆,hostel,lǚguǎn
+旅行社,Travel agency,lǚxíngshè
+绿茶,green tea,lǜchá
+慢慢,Slowly,mànmàn
+毛,hair,máo
+没用,Useless,méiyòng
+媒体,media,méitǐ
+美,nice,měi
+美好,Beautiful,měihǎo
+美食,Gourmet food,měishí
+美元,U.S. dollar,měiyuán
+迷,fan,mí
+奶茶,Milk tea,nǎichá
+男子,man,nánzi
+南部,South,nánbù
+难度,Difficulty,nándù
+内心,heart,nèixīn
+能不能,Can you,néngbùnéng
+年初,The beginning of the year,niánchū
+年底,End of the year,niándǐ
+牛,Cattle,niú
+农村,Rural area,nóngcūn
+女子,woman,nǚzǐ
+怕,afraid,pà
+排,row,pái
+排名,Rank,páimíng
+牌子,brand,páizi
+配,Match,pèi
+皮,skin,pí
+皮包,Purses,píbāo
+票价,fare,piàojià
+期,period,qī
+齐,Qi,qí
+前后,Before and after,qiánhòu
+前进,go ahead,qiánjìn
+前往,Go to,qiánwǎng
+强,Strong,qiáng
+强大,powerful,qiángdà
+巧,Clever,qiǎo
+亲,Dear,qīn
+亲人,Relatives,qīnrén
+情感,emotion,qínggǎn
+区,Area,qū
+全场,Audience,quánchǎng
+全球,global,quánqiú
+缺,lack,quē
+群,group,qún
+人民,people,rénmín
+人民币,Renminbi,rénmínbì
+人群,crowd,rénqún
+认出,make out,rènchū
+认得,Recognize,rènde
+任,Ren,rèn
+任,Ren,rèn
+仍,still,réng
+沙子,sand,shāzi
+伤,hurt,shāng
+上来,Come up,shànglái
+上面,Above,shàngmiàn
+上去,Go up,shǎngqù
+上升,rise,shàngshēng
+上衣,coat,shàngyī
+身份证,ID card,shēnfènzhèng
+深入,Go deep,shēnrù
+生,Give birth,shēng
+生意,business,shēngyì
+生长,Grow,shēngzhǎng
+胜,Win,shèng
+时,Time,shí
+实际上,Actually,shíjìshàng
+实行,Implement,shíxíng
+实验室,laboratory,shíyànshì
+食品,food,shípǐn
+使,Make,shǐ
+世界杯,World Cup,shìjièbēi
+市场,market,shìchǎng
+事实上,In fact,shìshíshàng
+试题,Test questions,shìtí
+适用,Be applicable,shìyòng
+室,room,shì
+收费,toll,shōufèi
+收看,Watch,shōukàn
+收听,Listen to,shōutīng
+受,Receive,shòu
+熟人,acquaintance,shúrén
+属,Belong to,shǔ
+随,Follow,suí
+所长,Director,suǒzhǎng
+谈话,conversation,tánhuà
+糖,sugar,táng
+特色,Feature,tèsè
+调,Tune,diào
+跳,jump,tiào
+跳高,high jump,tiàogāo
+跳远,long jump,tiàoyuǎn
+铁,iron,tiě
+铁路,railway,tiělù
+听力,hearing,tīnglì
+听众,audience,tīngzhòng
+停止,Stop,tíngzhǐ
+通信,Communication,tōngxìn
+痛,pain,tòng
+头,head,tóu
+头脑,mind,tóunǎo
+图,Figure,tú
+图画,picture,túhuà
+土,earth,tǔ
+推动,promote,tuīdòng
+推进,Advance,tuījìn
+推开,Push away,tuīkāi
+退出,drop out,tuìchū
+外面,outside,wàimiàn
+外文,foreign language,wàiwén
+围,Encircle,wéi
+卫生,health,wèishēng
+卫生间,bathroom,wèishēngjiān
+文字,Text,wénzì
+握手,shake hands,wòshǒu
+武器,arms,wǔqì
+舞台,stage,wǔtái
+西部,west,xībù
+下来,Come down,xiàlái
+下面,the following,xiàmiàn
+下去,Go down,xiàqù
+现代,modern,xiàndài
+现金,cash,xiànjīn
+线,line,xiàn
+相比,compared to,xiāngbǐ
+相互,mutual,xiānghù
+写作,writing,xiězuò
+血,blood,xuè
+心,heart,xīn
+信,letter,xìn
+信封,envelope,xìnfēng
+信任,trust,xìnrèn
+行李,Baggage,xínglǐ
+性,Sex,xìng
+修,repair,xiū
+学费,tuition,xuéfèi
+压,Pressure,yā
+烟,smoke,yān
+眼前,In front of,yǎnqián
+演,play,yǎn
+演唱,Sing,yǎnchàng
+演唱会,concert,yǎnchànghuì
+羊,sheep,yáng
+要是,if,yàoshì
+衣架,hanger,yījià
+已,Already,yǐ
+一方面,on the one hand,yìfāngmiàn
+银牌,silver medal,yínpái
+应当,should,yīngdāng
+影视,Film and television,yǐngshì
+邮件,mail,yóujiàn
+邮票,stamp,yóupiào
+邮箱,mailbox,yóuxiāng
+游,tour,yóu
+有的是,Some are,yǒudeshì
+有效,effective,yǒuxiào
+预计,Expected,yùjì
+员,member,yuán
+员工,Employee,yuángōng
+约,approximately,yuē
+乐队,band,yuèduì
+早已,Already,zǎoyǐ
+造,Make,zào
+增长,increase,zēngzhǎng
+张,Zhang,zhāng
+照,According to,zhào
+者,By,zhě
+争,Contend,zhēng
+整,whole,zhěng
+整齐,neat,zhěngqí
+整天,All day,zhěngtiān
+整整,full,zhěngzhěng
+证,certificate,zhèng
+支付,Pay,zhīfù
+直到,until,zhídào
+值,value,zhí
+职工,staff,zhígōng
+只是,just,zhǐshì
+只有,only,zhǐyǒu
+指出,Point out,zhǐchū
+志愿,volunteer,zhìyuàn
+制造,manufacture,zhìzào
+中部,Central,zhōngbù
+中华民族,Chinese nation,zhōnghuámínzú
+钟,bell,zhōng
+重大,major,zhòngdà
+猪,pig,zhū
+主动,initiative,zhǔdòng
+主任,director,zhǔrèn
+祝,wish,zhù
+抓,Grab,zhuā
+抓住,Seize,zhuāzhù
+转,turn,zhuǎn
+追,chase,zhuī
+准,quasi-,zhǔn
+子女,child,zǐnǚ
+自身,itself,zìshēn
+总,total,zǒng
+足够,enough,zúgòu
+足球,football,zúqiú
+左右,about,zuǒyòu
+做客,Be a guest,zuòkè

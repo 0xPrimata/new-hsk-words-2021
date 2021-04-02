@@ -1,3 +1,4 @@
+hanzi,translation
 挨着,Next to
 挨打,Beaten
 安检,Security check
@@ -846,4 +847,3 @@
 作,Make
 作战,Combat
 座谈会,forum
-,

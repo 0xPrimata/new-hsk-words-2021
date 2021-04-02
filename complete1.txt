@@ -1,0 +1,233 @@
+hanzi,translation,pinyin,location
+白天,day,báitiān,audios/báitiān.mp3
+半年,Half a year,bànnián,audios/bànnián.mp3
+半天,long time,bàntiān,audios/bàntiān.mp3
+帮,help,bāng,audios/bāng.mp3
+包子,bun,bāozi,audios/bāozi.mp3
+杯,cup,bēi,audios/bēi.mp3
+北,north,běi,audios/běi.mp3
+北边,North side,běibiān,audios/běibiān.mp3
+本子,book,běnzi,audios/běnzi.mp3
+别的,Other,biéde,audios/biéde.mp3
+别人,other people,biérén,audios/biérén.mp3
+病,disease,bìng,audios/bìng.mp3
+病人,patient,bìngrén,audios/bìngrén.mp3
+不大,Not big,bùdà,audios/bùdà.mp3
+不对,wrong,búduì,audios/búduì.mp3
+不用,No need to,bùyòng,audios/bùyòng.mp3
+常,often,cháng,audios/cháng.mp3
+常常,often,chángcháng,audios/chángcháng.mp3
+唱,sing,chàng,audios/chàng.mp3
+车,car,chē,audios/chē.mp3
+车票,ticket,chēpiào,audios/chēpiào.mp3
+车上,In the car,chēshàng,audios/chēshàng.mp3
+车站,station,chēzhàn,audios/chēzhàn.mp3
+吃饭,eat,chīfàn,audios/chīfàn.mp3
+出来,come out,chūlái,audios/chūlái.mp3
+出去,Go out,chūqù,audios/chūqù.mp3
+床,bed,chuáng,audios/chuáng.mp3
+从,From,cóng,audios/cóng.mp3
+打,hit,dǎ,audios/dǎ.mp3
+打车,Take a taxi,dǎchē,audios/dǎchē.mp3
+打开,turn on,dǎkāi,audios/dǎkāi.mp3
+打球,Play ball,dǎqiú,audios/dǎqiú.mp3
+大学,the University,dàxué,audios/dàxué.mp3
+大学生,College Students,dàxuéshēng,audios/dàxuéshēng.mp3
+得到,get,dédào,audios/dédào.mp3
+地点,location,dìdiǎn,audios/dìdiǎn.mp3
+地上,On the ground,dìshàng,audios/dìshàng.mp3
+第,First,dì,audios/dì.mp3
+电,Electricity,diàn,audios/diàn.mp3
+电话,phone,diànhuà,audios/diànhuà.mp3
+电视机,TV set,diànshìjī,audios/diànshìjī.mp3
+电影院,cinema,diànyǐngyuàn,audios/diànyǐngyuàn.mp3
+东边,East side,dōngbiān,audios/dōngbiān.mp3
+动,move,dòng,audios/dòng.mp3
+读书,reading,dúshū,audios/dúshū.mp3
+饭,rice,fàn,audios/fàn.mp3
+饭店,restaurant,fàndiàn,audios/fàndiàn.mp3
+房子,house,fángzi,audios/fángzi.mp3
+放假,holiday,fàngjià,audios/fàngjià.mp3
+放学,After school,fàngxué,audios/fàngxué.mp3
+飞,fly,fēi,audios/fēi.mp3
+风,wind,fēng,audios/fēng.mp3
+干,dry,gàn,audios/gàn.mp3
+干,dry,gàn,audios/gàn.mp3
+干什么,What to do,gànshénme,audios/gànshénme.mp3
+歌,song,gē,audios/gē.mp3
+关上,close,guānshàng,audios/guānshàng.mp3
+国,country,guó,audios/guó.mp3
+国外,foreign,guówài,audios/guówài.mp3
+还有,and also,háiyǒu,audios/háiyǒu.mp3
+汉字,Chinese character,hànzì,audios/hànzì.mp3
+好看,good looking,hǎokàn,audios/hǎokàn.mp3
+好听,Nice,hǎotīng,audios/hǎotīng.mp3
+好玩儿,Fun,hǎowánér,audios/hǎowánér.mp3
+号,number,hào,audios/hào.mp3
+后,Rear,hòu,audios/hòu.mp3
+后边,behind,hòubiān,audios/hòubiān.mp3
+后天,acquired,hòutiān,audios/hòutiān.mp3
+话,words,huà,audios/huà.mp3
+回答,Reply,huídá,audios/huídá.mp3
+回到,Back to,huídào,audios/huídào.mp3
+回家,Come back home,huíjiā,audios/huíjiā.mp3
+回来,come back,huílái,audios/huílái.mp3
+回去,go back,huíqù,audios/huíqù.mp3
+火车,train,huǒchē,audios/huǒchē.mp3
+机票,Air tickets,jīpiào,audios/jīpiào.mp3
+几,a few,jǐ,audios/jǐ.mp3
+记,Remember,jì,audios/jì.mp3
+记住,remember,jìzhù,audios/jìzhù.mp3
+家里,Home,jiālǐ,audios/jiālǐ.mp3
+家人,family,jiārén,audios/jiārén.mp3
+间,between,jiān,audios/jiān.mp3
+见,see,jiàn,audios/jiàn.mp3
+教学楼,Teaching building,jiàoxuélóu,audios/jiàoxuélóu.mp3
+今年,this year,jīnnián,audios/jīnnián.mp3
+进来,Come in,jìnlái,audios/jìnlái.mp3
+进去,Go in,jìnqù,audios/jìnqù.mp3
+开车,Drive,kāichē,audios/kāichē.mp3
+开会,Have a meeting,kāihuì,audios/kāihuì.mp3
+看,Look,kàn,audios/kàn.mp3
+看病,see a doctor,kànbìng,audios/kànbìng.mp3
+看到,see,kàndào,audios/kàndào.mp3
+考,test,kǎo,audios/kǎo.mp3
+课本,textbook,kèběn,audios/kèběn.mp3
+课文,text,kèwén,audios/kèwén.mp3
+来到,come,láidào,audios/láidào.mp3
+老人,Old man,lǎorén,audios/lǎorén.mp3
+累,tired,lèi,audios/lèi.mp3
+里边,inside,lǐbiān,audios/lǐbiān.mp3
+零,zero,líng,audios/líng.mp3
+楼上,upstairs,lóushàng,audios/lóushàng.mp3
+楼下,downstairs,lóuxià,audios/lóuxià.mp3
+路口,intersection,lùkǒu,audios/lùkǒu.mp3
+路上,On the road,lùshàng,audios/lùshàng.mp3
+马路,road,mǎlù,audios/mǎlù.mp3
+马上,immediately,mǎshàng,audios/mǎshàng.mp3
+毛,hair,máo,audios/máo.mp3
+没,No,méi,audios/méi.mp3
+没什么,It&#39;s nothing,méishénme,audios/méishénme.mp3
+没事儿,It&#39;s okay,méishìér,audios/méishìér.mp3
+没有,No,méiyǒu,audios/méiyǒu.mp3
+门口,Doorway,ménkǒu,audios/ménkǒu.mp3
+门票,Tickets,ménpiào,audios/ménpiào.mp3
+们,They,men,audios/men.mp3
+面条儿,Noodles,miàntiáoér,audios/miàntiáoér.mp3
+明年,next year,míngnián,audios/míngnián.mp3
+哪里,where,nǎlǐ,audios/nǎlǐ.mp3
+哪些,Which,něixiē,audios/něixiē.mp3
+那边,there,nàbiān,audios/nàbiān.mp3
+那里,There,nàlǐ,audios/nàlǐ.mp3
+那儿,there,nàér,audios/nàér.mp3
+那些,Those ones,nèixiē,audios/nèixiē.mp3
+奶,milk,nǎi,audios/nǎi.mp3
+男,male,nán,audios/nán.mp3
+男孩儿,boy,nánháier,audios/nánháier.mp3
+男朋友,boyfriend,nánpéngyǒu,audios/nánpéngyǒu.mp3
+男人,the man,nánrén,audios/nánrén.mp3
+男生,Boys,nánshēng,audios/nánshēng.mp3
+南边,South side,nánbiān,audios/nánbiān.mp3
+你们,you guys,nǐmen,audios/nǐmen.mp3
+女,Female,nǚ,audios/nǚ.mp3
+女孩儿,Girl,nǚháiér,audios/nǚháiér.mp3
+女朋友,girlfriend,nǚpéngyǒu,audios/nǚpéngyǒu.mp3
+女人,woman,nǚrén,audios/nǚrén.mp3
+女生,Schoolgirl,nǚshēng,audios/nǚshēng.mp3
+跑,run,pǎo,audios/pǎo.mp3
+起,From,qǐ,audios/qǐ.mp3
+起来,stand up,qǐlái,audios/qǐlái.mp3
+汽车,car,qìchē,audios/qìchē.mp3
+前,before,qián,audios/qián.mp3
+前边,Front,qiánbiān,audios/qiánbiān.mp3
+前天,The day before yesterday,qiántiān,audios/qiántiān.mp3
+钱包,wallet,qiánbāo,audios/qiánbāo.mp3
+请假,Ask for leave,qǐngjià,audios/qǐngjià.mp3
+请进,Please come in,qǐngjìn,audios/qǐngjìn.mp3
+请问,Excuse me,qǐngwèn,audios/qǐngwèn.mp3
+请坐,Please sit down,qǐngzuò,audios/qǐngzuò.mp3
+球,ball,qiú,audios/qiú.mp3
+日,day,rì,audios/rì.mp3
+肉,meat,ròu,audios/ròu.mp3
+山,mountain,shān,audios/shān.mp3
+商场,the mall,shāngchǎng,audios/shāngchǎng.mp3
+上,on,shàng,audios/shàng.mp3
+上边,Above,shàngbiān,audios/shàngbiān.mp3
+上车,boarding,shàngchē,audios/shàngchē.mp3
+上次,Last time,shàngcì,audios/shàngcì.mp3
+上课,Go to class,shàngkè,audios/shàngkè.mp3
+上学,go to school,shàngxué,audios/shàngxué.mp3
+身上,Body,shēnshàng,audios/shēnshàng.mp3
+事,thing,shì,audios/shì.mp3
+试,test,shì,audios/shì.mp3
+是不是,is not it,shìbúshì,audios/shìbúshì.mp3
+手,hand,shǒu,audios/shǒu.mp3
+书包,school bag,shūbāo,audios/shūbāo.mp3
+书店,bookstore,shūdiàn,audios/shūdiàn.mp3
+水果,fruit,shuǐguǒ,audios/shuǐguǒ.mp3
+睡,sleep,shuì,audios/shuì.mp3
+说,Say,shuō,audios/shuō.mp3
+说话,speak,shuōhuà,audios/shuōhuà.mp3
+他们,they,tāmen,audios/tāmen.mp3
+她们,they,tāmen,audios/tāmen.mp3
+天,day,tiān,audios/tiān.mp3
+听到,Hear,tīngdào,audios/tīngdào.mp3
+听见,hear,tīngjiàn,audios/tīngjiàn.mp3
+听写,dictation,tīngxiě,audios/tīngxiě.mp3
+外边,outside,wàibiān,audios/wàibiān.mp3
+外国,Foreign country,wàiguó,audios/wàiguó.mp3
+外语,foreign language,wàiyǔ,audios/wàiyǔ.mp3
+玩儿,play,wánér,audios/wánér.mp3
+晚,late,wǎn,audios/wǎn.mp3
+晚饭,dinner,wǎnfàn,audios/wǎnfàn.mp3
+网上,Online,wǎngshàng,audios/wǎngshàng.mp3
+网友,Netizen,wǎngyǒu,audios/wǎngyǒu.mp3
+忘,forget,wàng,audios/wàng.mp3
+午饭,lunch,wǔfàn,audios/wǔfàn.mp3
+西边,West side,xībiān,audios/xībiān.mp3
+下班,Off work,xiàbān,audios/xiàbān.mp3
+下边,below,xiàbiān,audios/xiàbiān.mp3
+下车,get off,xiàchē,audios/xiàchē.mp3
+下次,Next time,xiàcì,audios/xiàcì.mp3
+下课,End of get out of class,xiàkè,audios/xiàkè.mp3
+小孩儿,child,xiǎoháiér,audios/xiǎoháiér.mp3
+小朋友,Kids,xiǎopéngyǒu,audios/xiǎopéngyǒu.mp3
+小学,primary school,xiǎoxué,audios/xiǎoxué.mp3
+小学生,Elementary school student,xiǎoxuéshēng,audios/xiǎoxuéshēng.mp3
+新年,new Year,xīnnián,audios/xīnnián.mp3
+星期日,on Sunday,xīngqīrì,audios/xīngqīrì.mp3
+星期天,Sunday,xīngqītiān,audios/xīngqītiān.mp3
+学,learn,xué,audios/xué.mp3
+学院,Academy,xuéyuàn,audios/xuéyuàn.mp3
+要,want,yào,audios/yào.mp3
+一半,half,yíbàn,audios/yíbàn.mp3
+一块儿,Together,yīkuàiér,audios/yīkuàiér.mp3
+一下儿,a while,yīxiàér,audios/yīxiàér.mp3
+一点儿,a little,yìdiǎnér,audios/yìdiǎnér.mp3
+一些,some,yīxiē,audios/yīxiē.mp3
+有的,some,yǒude,audios/yǒude.mp3
+有时候,sometimes,yǒushíhòu,audios/yǒushíhòu.mp3
+有用,it works,yǒuyòng,audios/yǒuyòng.mp3
+右,right,yòu,audios/yòu.mp3
+雨,rain,yǔ,audios/yǔ.mp3
+元,yuan,yuán,audios/yuán.mp3
+在家,At home,zàijiā,audios/zàijiā.mp3
+早,early,zǎo,audios/zǎo.mp3
+早饭,breakfast,zǎofàn,audios/zǎofàn.mp3
+找到,turn up,zhǎodào,audios/zhǎodào.mp3
+这边,Here,zhèbiān,audios/zhèbiān.mp3
+这里,Here,zhèlǐ,audios/zhèlǐ.mp3
+这儿,here,zhèér,audios/zhèér.mp3
+这些,These ones,zhèxiē,audios/zhèxiē.mp3
+真的,Really,zhēnde,audios/zhēnde.mp3
+知道,know,zhīdào,audios/zhīdào.mp3
+中,in,zhōng,audios/zhōng.mp3
+中文,Chinese,zhōngwén,audios/zhōngwén.mp3
+中学,Middle school,zhōngxué,audios/zhōngxué.mp3
+中学生,middle School student,zhōngxuéshēng,audios/zhōngxuéshēng.mp3
+重,weight,zhòng,audios/zhòng.mp3
+子,child,zi,audios/zi.mp3
+走路,walk,zǒulù,audios/zǒulù.mp3
+最后,At last,zuìhòu,audios/zuìhòu.mp3
+左,left,zuǒ,audios/zuǒ.mp3
+坐下,sit down,zuòxià,audios/zuòxià.mp3

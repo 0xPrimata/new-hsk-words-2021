@@ -1,0 +1,492 @@
+hanzi,translation,pinyin
+岸上,ashore,ànshàng
+拔,pull,bá
+白酒,White wine,báijiǔ
+版,Version,bǎn
+棒,Baton,bàng
+报警,Call the police,bàojǐng
+抱怨,complain,bàoyuàn
+背包,backpack,bēibāo
+悲剧,tragedy,bēijù
+悲伤,sad,bēishāng
+辈,generation,bèi
+必,must,bì
+必需,Required,bìxū
+闭幕,Closing,bìmù
+闭幕式,Closing Ceremony,bìmùshì
+变动,change,biàndòng
+宾馆,Hotel,bīnguǎn
+饼,cake,bǐng
+博客,Blog,bókè
+不利,unfavorable,bùlì
+不幸,unfortunately,bùxìng
+不易,Not easy,bùyì
+不曾,Never,bùcéng
+不良,bad,bùliáng
+不免,Inevitably,bùmiǎn
+不能不,Can&#39;t help but,bùnéngbù
+不停,Non-stop,bùtíng
+不许,Not allowed,bùxǔ
+猜测,guess,cāicè
+餐馆,restaurant,cānguǎn
+餐厅,restaurant,cāntīng
+餐饮,food,cānyǐn
+草原,grassland,cǎoyuán
+叉,cross,chā
+差别,difference,chābié
+差距,gap,chājù
+查询,Inquire,cháxún
+拆除,tear down,chāichú
+长度,length,chángdù
+长寿,longevity,chángshòu
+肠,intestinal,cháng
+厂长,Plant manager,chǎngzhǎng
+车主,Car owner,chēzhǔ
+称²,Weigh ²,chēng²
+城里,In the city,chénglǐ
+乘,Multiply,chéng
+乘车,Ride,chéngchē
+乘客,passenger,chéngkè
+池子,pond,chízi
+迟,late,chí
+愁,worry,chóu
+出汗,Sweating,chūhàn
+出于,Out of,chūyú
+初期,Early,chūqī
+厨房,kitchen,chúfáng
+处罚,Punishment,chǔfá
+处在,Be in,chùzài
+传递,transfer,chuándì
+辞典,dictionary,cídiǎn
+此后,After that,cǐhòu
+此刻,now,cǐkè
+此时,at this time,cǐshí
+从中,from,cóngzhōng
+脆,brittle,cuì
+存款,deposit,cúnkuǎn
+寸,Inch,cùn
+答,answer,dá
+打,hit,dǎ
+大胆,Bold,dàdǎn
+大都,Most,dàdū
+大纲,Outline,dàgāng
+大奖赛,Grand Prix,dàjiǎngsài
+大脑,brain,dànǎo
+大事,event,dàshì
+大厅,hall,dàtīng
+大熊猫,Giant panda,dàxióngmāo
+大于,more than the,dàyú
+待,To be,dài
+带有,With,dàiyǒu
+单一,single,dānyī
+胆,Guts,dǎn
+胆小,timid,dǎnxiǎo
+当代,Contemporary,dāngdài
+当年,then,dāngnián
+到来,arrival,dàolái
+倒是,But,dǎoshì
+得了,Got it,déle
+得以,Be able to,déyǐ
+等候,waiting,děnghòu
+低于,Below,dīyú
+地带,zone,dìdài
+地形,terrain,dìxíng
+递给,Hand it to,dìgěi
+点燃,ignite,diǎnrán
+电饭锅,Rice cooker,diànfànguō
+电子版,e-edition,diànzibǎn
+豆制品,Soy products,dòuzhìpǐn
+毒,poison,dú
+朵,Do,duǒ
+躲,hide,duǒ
+儿女,Children,érnǚ
+二维码,QR code,èrwéimǎ
+罚,Punish,fá
+法规,Regulations,fǎguī
+法制,legal system,fǎzhì
+返回,return,fǎnhuí
+分成,Divided into,fēnchéng
+分类,classification,fēnlèi
+分离,Separate,fēnlí
+分享,share it,fēnxiǎng
+封,seal,fēng
+疯,Crazy,fēng
+服从,obey,fúcóng
+负责人,principal,fùzérén
+钢笔,pen,gāngbǐ
+钢琴,piano,gāngqín
+高大,tall,gāodà
+高度,height,gāodù
+高跟鞋,High heels,gāogēnxié
+高温,high temperature,gāowēn
+高于,Higher than,gāoyú
+高原,plateau,gāoyuán
+搞好,Do well,gǎohǎo
+歌曲,song,gēqǔ
+个儿,height,gèér
+更换,replace,gēnghuàn
+工艺,Craft,gōngyì
+工作日,Working day,gōngzuòrì
+共享,shared,gòngxiǎng
+沟,ditch,gōu
+古老,ancient,gǔlǎo
+鼓,drum,gǔ
+鼓掌,applaud,gǔzhǎng
+怪,strange,guài
+关怀,care,guānhuái
+光荣,glory,guāngróng
+光线,Light,guāngxiàn
+广,wide,guǎng
+鬼,ghost,guǐ
+柜子,cabinet,guìzi
+国籍,Country of Citizenship,guójí
+国民,national,guómín
+害,harm,hài
+好运,good luck,hǎoyùn
+盒,box,hé
+盒饭,Box lunch,héfàn
+贺卡,Greeting card,hèkǎ
+猴,monkey,hóu
+胡同儿,Alley,hútòngér
+胡子,Moustache,húzi
+虎,tiger,hǔ
+华语,Chinese,huáyǔ
+滑,slip,huá
+画面,Picture,huàmiàn
+慌,Panic,huāng
+慌忙,hurried,huāngmáng
+灰色,gray,huīsè
+回头,Look back,huítóu
+回信,reply,huíxìn
+汇款,money transfer,huìkuǎn
+会谈,talks,huìtán
+火腿,Ham,huǒtuǐ
+火灾,Fire,huǒzāi
+或是,Or,huòshì
+机器人,robot,jīqìrén
+机制,mechanism,jīzhì
+挤,squeeze,jǐ
+技能,skill,jìnéng
+加热,heating,jiārè
+加上,Plus,jiāshàng
+加速,accelerate,jiāsù
+加以,Add,jiāyǐ
+夹,folder,jiā
+价,price,jià
+驾照,driver&#39;s license,jiàzhào
+肩,shoulder,jiān
+减轻,Alleviate,jiǎnqīng
+剪,Cut,jiǎn
+剪子,scissors,jiǎnzi
+建造,put up,jiànzào
+键,key,jiàn
+将,will,jiāng
+将要,will,jiāngyào
+郊区,suburbs,jiāoqū
+胶带,tape,jiāodài
+脚步,pace,jiǎobù
+解放,liberation,jiěfàng
+戒,Quit,jiè
+今日,today,jīnrì
+紧紧,tightly,jǐnjǐn
+尽可能,As much as possible,jìnkěnéng
+景象,scene,jǐngxiàng
+酒鬼,drunkard,jiǔguǐ
+救灾,Disaster relief,jiùzāi
+局长,Director,júzhǎng
+决不,never,juébù
+军人,soldier,jūnrén
+开幕,Opening,kāimù
+看成,Regarded as,kànchéng
+看出,see,kànchū
+烤肉,Barbecue,kǎoròu
+烤鸭,Roast Duck,kǎoyā
+靠近,near,kàojìn
+咳,cough,ké
+可,can,kě
+客气,polite,kèqì
+客厅,living room,kètīng
+空中,In the air,kōngzhōng
+口号,slogan,kǒuhào
+库,Library,kù
+宽度,width,kuāndù
+狂,mad,kuáng
+亏,deficit,kuī
+困扰,Trouble,kùnrǎo
+落,drop,luò
+来信,Letter,láixìn
+朗读,Read aloud,lǎngdú
+礼,ceremony,lǐ
+礼拜,worship,lǐbài
+立,Stand up,lì
+连接,connection,liánjiē
+脸盆,washbasin,liǎnpén
+脸色,Face,liǎnsè
+两岸,Cross-strait,liǎngàn
+铃声,ring,língshēng
+领带,tie,lǐngdài
+令,make,lìng
+流动,flow,liúdòng
+漏洞,Loophole,lòudòng
+买卖,Buy and sell,mǎimài
+毛笔,Writing brush,máobǐ
+冒,Risk,mào
+煤,coal,méi
+煤气,gas,méiqì
+门诊,Outpatient,ménzhěn
+秒,second,miǎo
+敏感,sensitive,mǐngǎn
+明亮,Bright,míngliàng
+摩托,Motorcycle,mótuō
+男性,male,nánxìng
+南北,North and South,nánběi
+南极,Antarctica,nánjí
+难以,difficult,nányǐ
+脑子,Brain,nǎozi
+年前,Years ago,niánqián
+牛,Cattle,niú
+农产品,Agricultural products,nóngchǎnpǐn
+女性,female,nǚxìng
+暖,warm,nuǎn
+偶像,idol,ǒuxiàng
+拍摄,Shoot,pāishè
+旁,beside,páng
+赔,pay,péi
+喷,spray,pēn
+皮鞋,leather shoes,píxié
+脾气,temper,píqì
+骗子,con man,piànzi
+拼,spell,pīn
+品,Product,pǐn
+品,Product,pǐn
+品种,Variety,pǐnzhǒng
+葡萄,grape,pútáo
+葡萄酒,wine,pútáojiǔ
+其,its,qí
+启动,start up,qǐdòng
+起到,Up to,qǐdào
+气体,gas,qìtǐ
+签,sign,qiān
+签订,Signed,qiāndìng
+签名,signature,qiānmíng
+签约,Sign up,qiānyuē
+签字,signature,qiānzì
+强度,strength,qiángdù
+墙壁,wall,qiángbì
+敲门,Knock on the door,qiāomén
+琴,Piano,qín
+全都,all,quándōu
+全世界,worldwide,quánshìjiè
+泉,spring,quán
+群体,group,qúntǐ
+热量,Calories,rèliàng
+人力,Manpower,rénlì
+忍,endure,rěn
+认,recognize,rèn
+如此,in this way,rúcǐ
+如同,as,rútóng
+如下,as follows,rúxià
+入门,getting Started,rùmén
+软,soft,ruǎn
+散,Scattered,sàn
+杀毒,Antivirus,shādú
+山区,Mountain,shānqū
+扇,fan,shàn
+扇,fan,shàn
+扇子,fan,shànzi
+上下,up and down,shàngxià
+上涨,rise,shàngzhǎng
+稍,a little,shāo
+舍得,Willing,shède
+社,Society,shè
+射,Shoot,shè
+摄像,Camera,shèxiàng
+摄像机,Video camera,shèxiàngjī
+摄影师,Photographer,shèyǐngshī
+深处,deep,shēnchù
+深度,depth,shēndù
+神,God,shén
+神经,nerve,shénjīng
+神情,look,shénqíng
+升高,Elevated,shēnggāo
+生成,generate,shēngchéng
+声,sound,shēng
+剩下,Left,shèngxià
+诗歌,Poetry,shīgē
+使得,Make,shǐde
+式,formula,shì
+视频,video,shìpín
+视为,Regarded as,shìwèi
+收购,Acquisition,shōugòu
+收集,collect,shōují
+手段,means,shǒuduàn
+寿司,Sushi,shòusī
+受灾,Disaster,shòuzāi
+书柜,bookcase,shūguì
+书桌,desk,shūzhuō
+输出,Output,shūchū
+鼠,mouse,shǔ
+数目,number,shùmù
+摔,fall,shuāi
+摔倒,fall,shuāidǎo
+双手,Hands,shuāngshǒu
+水产品,Aquatic products,shuǐchǎnpǐn
+水分,Moisture,shuǐfèn
+水库,Reservoir,shuǐkù
+水灾,flood,shuǐzāi
+睡眠,Sleep,shuìmián
+说法,statement,shuōfǎ
+四周,All around,sìzhōu
+搜,Search,sōu
+搜索,search for,sōusuǒ
+酸甜苦辣,ups and downs,suāntiánkǔlà
+随后,Subsequently,suíhòu
+损害,damage,sǔnhài
+所在,Where,suǒzài
+抬头,look up,táitóu
+弹,bomb,dàn
+逃跑,Run away,táopǎo
+逃走,escape,táozǒu
+桃花,Peach blossom,táohuā
+桃树,peach,táoshù
+特性,characteristic,tèxìng
+特有,Peculiar,tèyǒu
+提起,Mention,tíqǐ
+体积,volume,tǐjī
+体力,physical strength,tǐlì
+厅,hall,tīng
+停留,Stay,tíngliú
+偷,steal,tōu
+偷偷,secretly,tōutōu
+兔,rabbit,tù
+团长,Head,tuánzhǎng
+推行,Implement,tuīxíng
+完了,It&#39;s over,wánle
+微博,Weibo,wēibó
+为止,until,wéizhǐ
+为主,Mainly,wéizhǔ
+违法,Illegal,wéifǎ
+违规,Violation,wéiguī
+委托,Commission,wěituō
+握,grip,wò
+污水,Sewage,wūshuǐ
+屋,house,wū
+无疑,undoubtedly,wúyí
+舞,dance,wǔ
+物价,Price,wùjià
+物业,Property,wùyè
+西装,Suit,xīzhuāng
+喜剧,comedy,xǐjù
+戏,play,xì
+先后,Successively,xiānhòu
+闲,idle,xián
+显,Show,xiǎn
+现有,existing,xiànyǒu
+献,offer,xiàn
+乡,township,xiāng
+乡村,rural,xiāngcūn
+香肠,sausage,xiāngcháng
+向前,forward,xiàngqián
+向上,up,xiàngshàng
+相声,crosstalk,xiàngshēng
+消费者,consumer,xiāofèizhě
+消极,negative,xiāojí
+小偷儿,Thief,xiǎotōuér
+协议书,Agreement,xiéyìshū
+信箱,mailbox,xìnxiāng
+行驶,Driving,xíngshǐ
+雄伟,majestic,xióngwěi
+熊,Bear,xióng
+选修,Elective,xuǎnxiū
+学科,Subject,xuékē
+学者,scholar,xuézhě
+寻求,seek,xúnqiú
+押金,deposit,yājīn
+鸭子,duck,yāzi
+言语,speech,yányǔ
+研究所,graduate School,yánjiūsuǒ
+摇头,Shaking his head,yáotóu
+也好,Also good,yěhǎo
+夜间,at night,yèjiān
+依法,According to law,yīfǎ
+依照,according to,yīzhào
+一带,Around,yīdài
+一句话,One sentence,yījùhuà
+一路,All the way,yīlù
+一下儿,a while,yīxiàér
+一下子,all of a sudden,yīxiàzi
+一口气,In one breath,yìkǒuqì
+一身,All in one,yīshēn
+饮料,Drink,yǐnliào
+印刷,print,yìnshuā
+应,should,yīng
+硬,hard,yìng
+用不着,No need,yòngbùzhe
+用来,Used to,yònglái
+用于,Used for,yòngyú
+由此,thus,yóucǐ
+游泳池,swimming pool,yóuyǒngchí
+有毒,poisonous,yǒudú
+有害,harmful,yǒuhài
+有力,powerful,yǒulì
+有利于,beneficial to,yǒulìyú
+有着,have,yǒuzhe
+雨水,rainwater,yǔshuǐ
+预备,preparation,yùbèi
+原有,original,yuányǒu
+远处,far away,yuǎnchù
+怨,blame,yuàn
+愿,willing,yuàn
+月饼,moon cake,yuèbǐng
+月球,Moon,yuèqiú
+阅览室,Reading room,yuèlǎnshì
+运,Luck,yùn
+灾,disaster,zāi
+灾区,disaster area,zāiqū
+再次,once again,zàicì
+再也,Never again,zàiyě
+在场,Present,zàichǎng
+在内,Inside,zàinèi
+暂停,time out,zàntíng
+糟,Bad,zāo
+早期,Early,zǎoqī
+增,increase,zēng
+增产,Increase production,zēngchǎn
+增大,Increase,zēngdà
+增多,increase,zēngduō
+增强,Enhance,zēngqiáng
+赠,Gift,zèng
+占有,Possess,zhànyǒu
+涨价,Price increase,zhǎngjià
+招生,Admissions,zhāoshēng
+招手,wave,zhāoshǒu
+真诚,sincere,zhēnchéng
+真理,truth,zhēnlǐ
+正版,Genuine,zhèngbǎn
+正如,Just like,zhèngrú
+挣,earn,zhēng
+挣钱,Earn money,zhèngqián
+之内,within,zhīnèi
+之外,Outside,zhīwài
+之下,under,zhīxià
+之中,Among,zhīzhōng
+执行,carried out,zhíxíng
+直线,straight line,zhíxiàn
+只不过,only,zhǐbùguò
+只见,I saw,zhījiàn
+至,to,zhì
+制成,production,zhìchéng
+中秋节,Moon Festival,zhōngqiūjié
+中药,traditional Chinese medicine,zhōngyào
+中毒,Poisoning,zhòngdú
+众多,numerous,zhòngduō
+主体,main body,zhǔtǐ
+专辑,Album,zhuānjí
+转化,Transform,zhuǎnhuà
+转换,Conversion,zhuǎnhuàn
+转向,Turn to,zhuǎnxiàng
+撞,hit,zhuàng
+自杀,suicide,zìshā
+总数,total,zǒngshù
+总体,overall,zǒngtǐ
+组织,organization,zǔzhī

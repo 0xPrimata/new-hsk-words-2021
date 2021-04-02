@@ -1,3 +1,4 @@
+hanzi,translation
 按,press
 白菜,Chinese cabbage
 班级,class
@@ -387,4 +388,3 @@
 足球,football
 左右,about
 做客,Be a guest
-,

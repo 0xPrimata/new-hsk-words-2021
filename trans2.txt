@@ -1,3 +1,4 @@
+hanzi,translation
 爱人,Lover
 白色,white
 班长,Monitor
@@ -407,4 +408,3 @@
 做到,Do it
 做法,practice
 做饭,Cook
-,

@@ -1,0 +1,492 @@
+hanzi,translation,pinyin,location
+岸上,ashore,ànshàng,audios/ànshàng.mp3
+拔,pull,bá,audios/bá.mp3
+白酒,White wine,báijiǔ,audios/báijiǔ.mp3
+版,Version,bǎn,audios/bǎn.mp3
+棒,Baton,bàng,audios/bàng.mp3
+报警,Call the police,bàojǐng,audios/bàojǐng.mp3
+抱怨,complain,bàoyuàn,audios/bàoyuàn.mp3
+背包,backpack,bēibāo,audios/bēibāo.mp3
+悲剧,tragedy,bēijù,audios/bēijù.mp3
+悲伤,sad,bēishāng,audios/bēishāng.mp3
+辈,generation,bèi,audios/bèi.mp3
+必,must,bì,audios/bì.mp3
+必需,Required,bìxū,audios/bìxū.mp3
+闭幕,Closing,bìmù,audios/bìmù.mp3
+闭幕式,Closing Ceremony,bìmùshì,audios/bìmùshì.mp3
+变动,change,biàndòng,audios/biàndòng.mp3
+宾馆,Hotel,bīnguǎn,audios/bīnguǎn.mp3
+饼,cake,bǐng,audios/bǐng.mp3
+博客,Blog,bókè,audios/bókè.mp3
+不利,unfavorable,bùlì,audios/bùlì.mp3
+不幸,unfortunately,bùxìng,audios/bùxìng.mp3
+不易,Not easy,bùyì,audios/bùyì.mp3
+不曾,Never,bùcéng,audios/bùcéng.mp3
+不良,bad,bùliáng,audios/bùliáng.mp3
+不免,Inevitably,bùmiǎn,audios/bùmiǎn.mp3
+不能不,Can&#39;t help but,bùnéngbù,audios/bùnéngbù.mp3
+不停,Non-stop,bùtíng,audios/bùtíng.mp3
+不许,Not allowed,bùxǔ,audios/bùxǔ.mp3
+猜测,guess,cāicè,audios/cāicè.mp3
+餐馆,restaurant,cānguǎn,audios/cānguǎn.mp3
+餐厅,restaurant,cāntīng,audios/cāntīng.mp3
+餐饮,food,cānyǐn,audios/cānyǐn.mp3
+草原,grassland,cǎoyuán,audios/cǎoyuán.mp3
+叉,cross,chā,audios/chā.mp3
+差别,difference,chābié,audios/chābié.mp3
+差距,gap,chājù,audios/chājù.mp3
+查询,Inquire,cháxún,audios/cháxún.mp3
+拆除,tear down,chāichú,audios/chāichú.mp3
+长度,length,chángdù,audios/chángdù.mp3
+长寿,longevity,chángshòu,audios/chángshòu.mp3
+肠,intestinal,cháng,audios/cháng.mp3
+厂长,Plant manager,chǎngzhǎng,audios/chǎngzhǎng.mp3
+车主,Car owner,chēzhǔ,audios/chēzhǔ.mp3
+称²,Weigh ²,chēng²,audios/chēng².mp3
+城里,In the city,chénglǐ,audios/chénglǐ.mp3
+乘,Multiply,chéng,audios/chéng.mp3
+乘车,Ride,chéngchē,audios/chéngchē.mp3
+乘客,passenger,chéngkè,audios/chéngkè.mp3
+池子,pond,chízi,audios/chízi.mp3
+迟,late,chí,audios/chí.mp3
+愁,worry,chóu,audios/chóu.mp3
+出汗,Sweating,chūhàn,audios/chūhàn.mp3
+出于,Out of,chūyú,audios/chūyú.mp3
+初期,Early,chūqī,audios/chūqī.mp3
+厨房,kitchen,chúfáng,audios/chúfáng.mp3
+处罚,Punishment,chǔfá,audios/chǔfá.mp3
+处在,Be in,chùzài,audios/chùzài.mp3
+传递,transfer,chuándì,audios/chuándì.mp3
+辞典,dictionary,cídiǎn,audios/cídiǎn.mp3
+此后,After that,cǐhòu,audios/cǐhòu.mp3
+此刻,now,cǐkè,audios/cǐkè.mp3
+此时,at this time,cǐshí,audios/cǐshí.mp3
+从中,from,cóngzhōng,audios/cóngzhōng.mp3
+脆,brittle,cuì,audios/cuì.mp3
+存款,deposit,cúnkuǎn,audios/cúnkuǎn.mp3
+寸,Inch,cùn,audios/cùn.mp3
+答,answer,dá,audios/dá.mp3
+打,hit,dǎ,audios/dǎ.mp3
+大胆,Bold,dàdǎn,audios/dàdǎn.mp3
+大都,Most,dàdū,audios/dàdū.mp3
+大纲,Outline,dàgāng,audios/dàgāng.mp3
+大奖赛,Grand Prix,dàjiǎngsài,audios/dàjiǎngsài.mp3
+大脑,brain,dànǎo,audios/dànǎo.mp3
+大事,event,dàshì,audios/dàshì.mp3
+大厅,hall,dàtīng,audios/dàtīng.mp3
+大熊猫,Giant panda,dàxióngmāo,audios/dàxióngmāo.mp3
+大于,more than the,dàyú,audios/dàyú.mp3
+待,To be,dài,audios/dài.mp3
+带有,With,dàiyǒu,audios/dàiyǒu.mp3
+单一,single,dānyī,audios/dānyī.mp3
+胆,Guts,dǎn,audios/dǎn.mp3
+胆小,timid,dǎnxiǎo,audios/dǎnxiǎo.mp3
+当代,Contemporary,dāngdài,audios/dāngdài.mp3
+当年,then,dāngnián,audios/dāngnián.mp3
+到来,arrival,dàolái,audios/dàolái.mp3
+倒是,But,dǎoshì,audios/dǎoshì.mp3
+得了,Got it,déle,audios/déle.mp3
+得以,Be able to,déyǐ,audios/déyǐ.mp3
+等候,waiting,děnghòu,audios/děnghòu.mp3
+低于,Below,dīyú,audios/dīyú.mp3
+地带,zone,dìdài,audios/dìdài.mp3
+地形,terrain,dìxíng,audios/dìxíng.mp3
+递给,Hand it to,dìgěi,audios/dìgěi.mp3
+点燃,ignite,diǎnrán,audios/diǎnrán.mp3
+电饭锅,Rice cooker,diànfànguō,audios/diànfànguō.mp3
+电子版,e-edition,diànzibǎn,audios/diànzibǎn.mp3
+豆制品,Soy products,dòuzhìpǐn,audios/dòuzhìpǐn.mp3
+毒,poison,dú,audios/dú.mp3
+朵,Do,duǒ,audios/duǒ.mp3
+躲,hide,duǒ,audios/duǒ.mp3
+儿女,Children,érnǚ,audios/érnǚ.mp3
+二维码,QR code,èrwéimǎ,audios/èrwéimǎ.mp3
+罚,Punish,fá,audios/fá.mp3
+法规,Regulations,fǎguī,audios/fǎguī.mp3
+法制,legal system,fǎzhì,audios/fǎzhì.mp3
+返回,return,fǎnhuí,audios/fǎnhuí.mp3
+分成,Divided into,fēnchéng,audios/fēnchéng.mp3
+分类,classification,fēnlèi,audios/fēnlèi.mp3
+分离,Separate,fēnlí,audios/fēnlí.mp3
+分享,share it,fēnxiǎng,audios/fēnxiǎng.mp3
+封,seal,fēng,audios/fēng.mp3
+疯,Crazy,fēng,audios/fēng.mp3
+服从,obey,fúcóng,audios/fúcóng.mp3
+负责人,principal,fùzérén,audios/fùzérén.mp3
+钢笔,pen,gāngbǐ,audios/gāngbǐ.mp3
+钢琴,piano,gāngqín,audios/gāngqín.mp3
+高大,tall,gāodà,audios/gāodà.mp3
+高度,height,gāodù,audios/gāodù.mp3
+高跟鞋,High heels,gāogēnxié,audios/gāogēnxié.mp3
+高温,high temperature,gāowēn,audios/gāowēn.mp3
+高于,Higher than,gāoyú,audios/gāoyú.mp3
+高原,plateau,gāoyuán,audios/gāoyuán.mp3
+搞好,Do well,gǎohǎo,audios/gǎohǎo.mp3
+歌曲,song,gēqǔ,audios/gēqǔ.mp3
+个儿,height,gèér,audios/gèér.mp3
+更换,replace,gēnghuàn,audios/gēnghuàn.mp3
+工艺,Craft,gōngyì,audios/gōngyì.mp3
+工作日,Working day,gōngzuòrì,audios/gōngzuòrì.mp3
+共享,shared,gòngxiǎng,audios/gòngxiǎng.mp3
+沟,ditch,gōu,audios/gōu.mp3
+古老,ancient,gǔlǎo,audios/gǔlǎo.mp3
+鼓,drum,gǔ,audios/gǔ.mp3
+鼓掌,applaud,gǔzhǎng,audios/gǔzhǎng.mp3
+怪,strange,guài,audios/guài.mp3
+关怀,care,guānhuái,audios/guānhuái.mp3
+光荣,glory,guāngróng,audios/guāngróng.mp3
+光线,Light,guāngxiàn,audios/guāngxiàn.mp3
+广,wide,guǎng,audios/guǎng.mp3
+鬼,ghost,guǐ,audios/guǐ.mp3
+柜子,cabinet,guìzi,audios/guìzi.mp3
+国籍,Country of Citizenship,guójí,audios/guójí.mp3
+国民,national,guómín,audios/guómín.mp3
+害,harm,hài,audios/hài.mp3
+好运,good luck,hǎoyùn,audios/hǎoyùn.mp3
+盒,box,hé,audios/hé.mp3
+盒饭,Box lunch,héfàn,audios/héfàn.mp3
+贺卡,Greeting card,hèkǎ,audios/hèkǎ.mp3
+猴,monkey,hóu,audios/hóu.mp3
+胡同儿,Alley,hútòngér,audios/hútòngér.mp3
+胡子,Moustache,húzi,audios/húzi.mp3
+虎,tiger,hǔ,audios/hǔ.mp3
+华语,Chinese,huáyǔ,audios/huáyǔ.mp3
+滑,slip,huá,audios/huá.mp3
+画面,Picture,huàmiàn,audios/huàmiàn.mp3
+慌,Panic,huāng,audios/huāng.mp3
+慌忙,hurried,huāngmáng,audios/huāngmáng.mp3
+灰色,gray,huīsè,audios/huīsè.mp3
+回头,Look back,huítóu,audios/huítóu.mp3
+回信,reply,huíxìn,audios/huíxìn.mp3
+汇款,money transfer,huìkuǎn,audios/huìkuǎn.mp3
+会谈,talks,huìtán,audios/huìtán.mp3
+火腿,Ham,huǒtuǐ,audios/huǒtuǐ.mp3
+火灾,Fire,huǒzāi,audios/huǒzāi.mp3
+或是,Or,huòshì,audios/huòshì.mp3
+机器人,robot,jīqìrén,audios/jīqìrén.mp3
+机制,mechanism,jīzhì,audios/jīzhì.mp3
+挤,squeeze,jǐ,audios/jǐ.mp3
+技能,skill,jìnéng,audios/jìnéng.mp3
+加热,heating,jiārè,audios/jiārè.mp3
+加上,Plus,jiāshàng,audios/jiāshàng.mp3
+加速,accelerate,jiāsù,audios/jiāsù.mp3
+加以,Add,jiāyǐ,audios/jiāyǐ.mp3
+夹,folder,jiā,audios/jiā.mp3
+价,price,jià,audios/jià.mp3
+驾照,driver&#39;s license,jiàzhào,audios/jiàzhào.mp3
+肩,shoulder,jiān,audios/jiān.mp3
+减轻,Alleviate,jiǎnqīng,audios/jiǎnqīng.mp3
+剪,Cut,jiǎn,audios/jiǎn.mp3
+剪子,scissors,jiǎnzi,audios/jiǎnzi.mp3
+建造,put up,jiànzào,audios/jiànzào.mp3
+键,key,jiàn,audios/jiàn.mp3
+将,will,jiāng,audios/jiāng.mp3
+将要,will,jiāngyào,audios/jiāngyào.mp3
+郊区,suburbs,jiāoqū,audios/jiāoqū.mp3
+胶带,tape,jiāodài,audios/jiāodài.mp3
+脚步,pace,jiǎobù,audios/jiǎobù.mp3
+解放,liberation,jiěfàng,audios/jiěfàng.mp3
+戒,Quit,jiè,audios/jiè.mp3
+今日,today,jīnrì,audios/jīnrì.mp3
+紧紧,tightly,jǐnjǐn,audios/jǐnjǐn.mp3
+尽可能,As much as possible,jìnkěnéng,audios/jìnkěnéng.mp3
+景象,scene,jǐngxiàng,audios/jǐngxiàng.mp3
+酒鬼,drunkard,jiǔguǐ,audios/jiǔguǐ.mp3
+救灾,Disaster relief,jiùzāi,audios/jiùzāi.mp3
+局长,Director,júzhǎng,audios/júzhǎng.mp3
+决不,never,juébù,audios/juébù.mp3
+军人,soldier,jūnrén,audios/jūnrén.mp3
+开幕,Opening,kāimù,audios/kāimù.mp3
+看成,Regarded as,kànchéng,audios/kànchéng.mp3
+看出,see,kànchū,audios/kànchū.mp3
+烤肉,Barbecue,kǎoròu,audios/kǎoròu.mp3
+烤鸭,Roast Duck,kǎoyā,audios/kǎoyā.mp3
+靠近,near,kàojìn,audios/kàojìn.mp3
+咳,cough,ké,audios/ké.mp3
+可,can,kě,audios/kě.mp3
+客气,polite,kèqì,audios/kèqì.mp3
+客厅,living room,kètīng,audios/kètīng.mp3
+空中,In the air,kōngzhōng,audios/kōngzhōng.mp3
+口号,slogan,kǒuhào,audios/kǒuhào.mp3
+库,Library,kù,audios/kù.mp3
+宽度,width,kuāndù,audios/kuāndù.mp3
+狂,mad,kuáng,audios/kuáng.mp3
+亏,deficit,kuī,audios/kuī.mp3
+困扰,Trouble,kùnrǎo,audios/kùnrǎo.mp3
+落,drop,luò,audios/luò.mp3
+来信,Letter,láixìn,audios/láixìn.mp3
+朗读,Read aloud,lǎngdú,audios/lǎngdú.mp3
+礼,ceremony,lǐ,audios/lǐ.mp3
+礼拜,worship,lǐbài,audios/lǐbài.mp3
+立,Stand up,lì,audios/lì.mp3
+连接,connection,liánjiē,audios/liánjiē.mp3
+脸盆,washbasin,liǎnpén,audios/liǎnpén.mp3
+脸色,Face,liǎnsè,audios/liǎnsè.mp3
+两岸,Cross-strait,liǎngàn,audios/liǎngàn.mp3
+铃声,ring,língshēng,audios/língshēng.mp3
+领带,tie,lǐngdài,audios/lǐngdài.mp3
+令,make,lìng,audios/lìng.mp3
+流动,flow,liúdòng,audios/liúdòng.mp3
+漏洞,Loophole,lòudòng,audios/lòudòng.mp3
+买卖,Buy and sell,mǎimài,audios/mǎimài.mp3
+毛笔,Writing brush,máobǐ,audios/máobǐ.mp3
+冒,Risk,mào,audios/mào.mp3
+煤,coal,méi,audios/méi.mp3
+煤气,gas,méiqì,audios/méiqì.mp3
+门诊,Outpatient,ménzhěn,audios/ménzhěn.mp3
+秒,second,miǎo,audios/miǎo.mp3
+敏感,sensitive,mǐngǎn,audios/mǐngǎn.mp3
+明亮,Bright,míngliàng,audios/míngliàng.mp3
+摩托,Motorcycle,mótuō,audios/mótuō.mp3
+男性,male,nánxìng,audios/nánxìng.mp3
+南北,North and South,nánběi,audios/nánběi.mp3
+南极,Antarctica,nánjí,audios/nánjí.mp3
+难以,difficult,nányǐ,audios/nányǐ.mp3
+脑子,Brain,nǎozi,audios/nǎozi.mp3
+年前,Years ago,niánqián,audios/niánqián.mp3
+牛,Cattle,niú,audios/niú.mp3
+农产品,Agricultural products,nóngchǎnpǐn,audios/nóngchǎnpǐn.mp3
+女性,female,nǚxìng,audios/nǚxìng.mp3
+暖,warm,nuǎn,audios/nuǎn.mp3
+偶像,idol,ǒuxiàng,audios/ǒuxiàng.mp3
+拍摄,Shoot,pāishè,audios/pāishè.mp3
+旁,beside,páng,audios/páng.mp3
+赔,pay,péi,audios/péi.mp3
+喷,spray,pēn,audios/pēn.mp3
+皮鞋,leather shoes,píxié,audios/píxié.mp3
+脾气,temper,píqì,audios/píqì.mp3
+骗子,con man,piànzi,audios/piànzi.mp3
+拼,spell,pīn,audios/pīn.mp3
+品,Product,pǐn,audios/pǐn.mp3
+品,Product,pǐn,audios/pǐn.mp3
+品种,Variety,pǐnzhǒng,audios/pǐnzhǒng.mp3
+葡萄,grape,pútáo,audios/pútáo.mp3
+葡萄酒,wine,pútáojiǔ,audios/pútáojiǔ.mp3
+其,its,qí,audios/qí.mp3
+启动,start up,qǐdòng,audios/qǐdòng.mp3
+起到,Up to,qǐdào,audios/qǐdào.mp3
+气体,gas,qìtǐ,audios/qìtǐ.mp3
+签,sign,qiān,audios/qiān.mp3
+签订,Signed,qiāndìng,audios/qiāndìng.mp3
+签名,signature,qiānmíng,audios/qiānmíng.mp3
+签约,Sign up,qiānyuē,audios/qiānyuē.mp3
+签字,signature,qiānzì,audios/qiānzì.mp3
+强度,strength,qiángdù,audios/qiángdù.mp3
+墙壁,wall,qiángbì,audios/qiángbì.mp3
+敲门,Knock on the door,qiāomén,audios/qiāomén.mp3
+琴,Piano,qín,audios/qín.mp3
+全都,all,quándōu,audios/quándōu.mp3
+全世界,worldwide,quánshìjiè,audios/quánshìjiè.mp3
+泉,spring,quán,audios/quán.mp3
+群体,group,qúntǐ,audios/qúntǐ.mp3
+热量,Calories,rèliàng,audios/rèliàng.mp3
+人力,Manpower,rénlì,audios/rénlì.mp3
+忍,endure,rěn,audios/rěn.mp3
+认,recognize,rèn,audios/rèn.mp3
+如此,in this way,rúcǐ,audios/rúcǐ.mp3
+如同,as,rútóng,audios/rútóng.mp3
+如下,as follows,rúxià,audios/rúxià.mp3
+入门,getting Started,rùmén,audios/rùmén.mp3
+软,soft,ruǎn,audios/ruǎn.mp3
+散,Scattered,sàn,audios/sàn.mp3
+杀毒,Antivirus,shādú,audios/shādú.mp3
+山区,Mountain,shānqū,audios/shānqū.mp3
+扇,fan,shàn,audios/shàn.mp3
+扇,fan,shàn,audios/shàn.mp3
+扇子,fan,shànzi,audios/shànzi.mp3
+上下,up and down,shàngxià,audios/shàngxià.mp3
+上涨,rise,shàngzhǎng,audios/shàngzhǎng.mp3
+稍,a little,shāo,audios/shāo.mp3
+舍得,Willing,shède,audios/shède.mp3
+社,Society,shè,audios/shè.mp3
+射,Shoot,shè,audios/shè.mp3
+摄像,Camera,shèxiàng,audios/shèxiàng.mp3
+摄像机,Video camera,shèxiàngjī,audios/shèxiàngjī.mp3
+摄影师,Photographer,shèyǐngshī,audios/shèyǐngshī.mp3
+深处,deep,shēnchù,audios/shēnchù.mp3
+深度,depth,shēndù,audios/shēndù.mp3
+神,God,shén,audios/shén.mp3
+神经,nerve,shénjīng,audios/shénjīng.mp3
+神情,look,shénqíng,audios/shénqíng.mp3
+升高,Elevated,shēnggāo,audios/shēnggāo.mp3
+生成,generate,shēngchéng,audios/shēngchéng.mp3
+声,sound,shēng,audios/shēng.mp3
+剩下,Left,shèngxià,audios/shèngxià.mp3
+诗歌,Poetry,shīgē,audios/shīgē.mp3
+使得,Make,shǐde,audios/shǐde.mp3
+式,formula,shì,audios/shì.mp3
+视频,video,shìpín,audios/shìpín.mp3
+视为,Regarded as,shìwèi,audios/shìwèi.mp3
+收购,Acquisition,shōugòu,audios/shōugòu.mp3
+收集,collect,shōují,audios/shōují.mp3
+手段,means,shǒuduàn,audios/shǒuduàn.mp3
+寿司,Sushi,shòusī,audios/shòusī.mp3
+受灾,Disaster,shòuzāi,audios/shòuzāi.mp3
+书柜,bookcase,shūguì,audios/shūguì.mp3
+书桌,desk,shūzhuō,audios/shūzhuō.mp3
+输出,Output,shūchū,audios/shūchū.mp3
+鼠,mouse,shǔ,audios/shǔ.mp3
+数目,number,shùmù,audios/shùmù.mp3
+摔,fall,shuāi,audios/shuāi.mp3
+摔倒,fall,shuāidǎo,audios/shuāidǎo.mp3
+双手,Hands,shuāngshǒu,audios/shuāngshǒu.mp3
+水产品,Aquatic products,shuǐchǎnpǐn,audios/shuǐchǎnpǐn.mp3
+水分,Moisture,shuǐfèn,audios/shuǐfèn.mp3
+水库,Reservoir,shuǐkù,audios/shuǐkù.mp3
+水灾,flood,shuǐzāi,audios/shuǐzāi.mp3
+睡眠,Sleep,shuìmián,audios/shuìmián.mp3
+说法,statement,shuōfǎ,audios/shuōfǎ.mp3
+四周,All around,sìzhōu,audios/sìzhōu.mp3
+搜,Search,sōu,audios/sōu.mp3
+搜索,search for,sōusuǒ,audios/sōusuǒ.mp3
+酸甜苦辣,ups and downs,suāntiánkǔlà,audios/suāntiánkǔlà.mp3
+随后,Subsequently,suíhòu,audios/suíhòu.mp3
+损害,damage,sǔnhài,audios/sǔnhài.mp3
+所在,Where,suǒzài,audios/suǒzài.mp3
+抬头,look up,táitóu,audios/táitóu.mp3
+弹,bomb,dàn,audios/dàn.mp3
+逃跑,Run away,táopǎo,audios/táopǎo.mp3
+逃走,escape,táozǒu,audios/táozǒu.mp3
+桃花,Peach blossom,táohuā,audios/táohuā.mp3
+桃树,peach,táoshù,audios/táoshù.mp3
+特性,characteristic,tèxìng,audios/tèxìng.mp3
+特有,Peculiar,tèyǒu,audios/tèyǒu.mp3
+提起,Mention,tíqǐ,audios/tíqǐ.mp3
+体积,volume,tǐjī,audios/tǐjī.mp3
+体力,physical strength,tǐlì,audios/tǐlì.mp3
+厅,hall,tīng,audios/tīng.mp3
+停留,Stay,tíngliú,audios/tíngliú.mp3
+偷,steal,tōu,audios/tōu.mp3
+偷偷,secretly,tōutōu,audios/tōutōu.mp3
+兔,rabbit,tù,audios/tù.mp3
+团长,Head,tuánzhǎng,audios/tuánzhǎng.mp3
+推行,Implement,tuīxíng,audios/tuīxíng.mp3
+完了,It&#39;s over,wánle,audios/wánle.mp3
+微博,Weibo,wēibó,audios/wēibó.mp3
+为止,until,wéizhǐ,audios/wéizhǐ.mp3
+为主,Mainly,wéizhǔ,audios/wéizhǔ.mp3
+违法,Illegal,wéifǎ,audios/wéifǎ.mp3
+违规,Violation,wéiguī,audios/wéiguī.mp3
+委托,Commission,wěituō,audios/wěituō.mp3
+握,grip,wò,audios/wò.mp3
+污水,Sewage,wūshuǐ,audios/wūshuǐ.mp3
+屋,house,wū,audios/wū.mp3
+无疑,undoubtedly,wúyí,audios/wúyí.mp3
+舞,dance,wǔ,audios/wǔ.mp3
+物价,Price,wùjià,audios/wùjià.mp3
+物业,Property,wùyè,audios/wùyè.mp3
+西装,Suit,xīzhuāng,audios/xīzhuāng.mp3
+喜剧,comedy,xǐjù,audios/xǐjù.mp3
+戏,play,xì,audios/xì.mp3
+先后,Successively,xiānhòu,audios/xiānhòu.mp3
+闲,idle,xián,audios/xián.mp3
+显,Show,xiǎn,audios/xiǎn.mp3
+现有,existing,xiànyǒu,audios/xiànyǒu.mp3
+献,offer,xiàn,audios/xiàn.mp3
+乡,township,xiāng,audios/xiāng.mp3
+乡村,rural,xiāngcūn,audios/xiāngcūn.mp3
+香肠,sausage,xiāngcháng,audios/xiāngcháng.mp3
+向前,forward,xiàngqián,audios/xiàngqián.mp3
+向上,up,xiàngshàng,audios/xiàngshàng.mp3
+相声,crosstalk,xiàngshēng,audios/xiàngshēng.mp3
+消费者,consumer,xiāofèizhě,audios/xiāofèizhě.mp3
+消极,negative,xiāojí,audios/xiāojí.mp3
+小偷儿,Thief,xiǎotōuér,audios/xiǎotōuér.mp3
+协议书,Agreement,xiéyìshū,audios/xiéyìshū.mp3
+信箱,mailbox,xìnxiāng,audios/xìnxiāng.mp3
+行驶,Driving,xíngshǐ,audios/xíngshǐ.mp3
+雄伟,majestic,xióngwěi,audios/xióngwěi.mp3
+熊,Bear,xióng,audios/xióng.mp3
+选修,Elective,xuǎnxiū,audios/xuǎnxiū.mp3
+学科,Subject,xuékē,audios/xuékē.mp3
+学者,scholar,xuézhě,audios/xuézhě.mp3
+寻求,seek,xúnqiú,audios/xúnqiú.mp3
+押金,deposit,yājīn,audios/yājīn.mp3
+鸭子,duck,yāzi,audios/yāzi.mp3
+言语,speech,yányǔ,audios/yányǔ.mp3
+研究所,graduate School,yánjiūsuǒ,audios/yánjiūsuǒ.mp3
+摇头,Shaking his head,yáotóu,audios/yáotóu.mp3
+也好,Also good,yěhǎo,audios/yěhǎo.mp3
+夜间,at night,yèjiān,audios/yèjiān.mp3
+依法,According to law,yīfǎ,audios/yīfǎ.mp3
+依照,according to,yīzhào,audios/yīzhào.mp3
+一带,Around,yīdài,audios/yīdài.mp3
+一句话,One sentence,yījùhuà,audios/yījùhuà.mp3
+一路,All the way,yīlù,audios/yīlù.mp3
+一下儿,a while,yīxiàér,audios/yīxiàér.mp3
+一下子,all of a sudden,yīxiàzi,audios/yīxiàzi.mp3
+一口气,In one breath,yìkǒuqì,audios/yìkǒuqì.mp3
+一身,All in one,yīshēn,audios/yīshēn.mp3
+饮料,Drink,yǐnliào,audios/yǐnliào.mp3
+印刷,print,yìnshuā,audios/yìnshuā.mp3
+应,should,yīng,audios/yīng.mp3
+硬,hard,yìng,audios/yìng.mp3
+用不着,No need,yòngbùzhe,audios/yòngbùzhe.mp3
+用来,Used to,yònglái,audios/yònglái.mp3
+用于,Used for,yòngyú,audios/yòngyú.mp3
+由此,thus,yóucǐ,audios/yóucǐ.mp3
+游泳池,swimming pool,yóuyǒngchí,audios/yóuyǒngchí.mp3
+有毒,poisonous,yǒudú,audios/yǒudú.mp3
+有害,harmful,yǒuhài,audios/yǒuhài.mp3
+有力,powerful,yǒulì,audios/yǒulì.mp3
+有利于,beneficial to,yǒulìyú,audios/yǒulìyú.mp3
+有着,have,yǒuzhe,audios/yǒuzhe.mp3
+雨水,rainwater,yǔshuǐ,audios/yǔshuǐ.mp3
+预备,preparation,yùbèi,audios/yùbèi.mp3
+原有,original,yuányǒu,audios/yuányǒu.mp3
+远处,far away,yuǎnchù,audios/yuǎnchù.mp3
+怨,blame,yuàn,audios/yuàn.mp3
+愿,willing,yuàn,audios/yuàn.mp3
+月饼,moon cake,yuèbǐng,audios/yuèbǐng.mp3
+月球,Moon,yuèqiú,audios/yuèqiú.mp3
+阅览室,Reading room,yuèlǎnshì,audios/yuèlǎnshì.mp3
+运,Luck,yùn,audios/yùn.mp3
+灾,disaster,zāi,audios/zāi.mp3
+灾区,disaster area,zāiqū,audios/zāiqū.mp3
+再次,once again,zàicì,audios/zàicì.mp3
+再也,Never again,zàiyě,audios/zàiyě.mp3
+在场,Present,zàichǎng,audios/zàichǎng.mp3
+在内,Inside,zàinèi,audios/zàinèi.mp3
+暂停,time out,zàntíng,audios/zàntíng.mp3
+糟,Bad,zāo,audios/zāo.mp3
+早期,Early,zǎoqī,audios/zǎoqī.mp3
+增,increase,zēng,audios/zēng.mp3
+增产,Increase production,zēngchǎn,audios/zēngchǎn.mp3
+增大,Increase,zēngdà,audios/zēngdà.mp3
+增多,increase,zēngduō,audios/zēngduō.mp3
+增强,Enhance,zēngqiáng,audios/zēngqiáng.mp3
+赠,Gift,zèng,audios/zèng.mp3
+占有,Possess,zhànyǒu,audios/zhànyǒu.mp3
+涨价,Price increase,zhǎngjià,audios/zhǎngjià.mp3
+招生,Admissions,zhāoshēng,audios/zhāoshēng.mp3
+招手,wave,zhāoshǒu,audios/zhāoshǒu.mp3
+真诚,sincere,zhēnchéng,audios/zhēnchéng.mp3
+真理,truth,zhēnlǐ,audios/zhēnlǐ.mp3
+正版,Genuine,zhèngbǎn,audios/zhèngbǎn.mp3
+正如,Just like,zhèngrú,audios/zhèngrú.mp3
+挣,earn,zhēng,audios/zhēng.mp3
+挣钱,Earn money,zhèngqián,audios/zhèngqián.mp3
+之内,within,zhīnèi,audios/zhīnèi.mp3
+之外,Outside,zhīwài,audios/zhīwài.mp3
+之下,under,zhīxià,audios/zhīxià.mp3
+之中,Among,zhīzhōng,audios/zhīzhōng.mp3
+执行,carried out,zhíxíng,audios/zhíxíng.mp3
+直线,straight line,zhíxiàn,audios/zhíxiàn.mp3
+只不过,only,zhǐbùguò,audios/zhǐbùguò.mp3
+只见,I saw,zhījiàn,audios/zhījiàn.mp3
+至,to,zhì,audios/zhì.mp3
+制成,production,zhìchéng,audios/zhìchéng.mp3
+中秋节,Moon Festival,zhōngqiūjié,audios/zhōngqiūjié.mp3
+中药,traditional Chinese medicine,zhōngyào,audios/zhōngyào.mp3
+中毒,Poisoning,zhòngdú,audios/zhòngdú.mp3
+众多,numerous,zhòngduō,audios/zhòngduō.mp3
+主体,main body,zhǔtǐ,audios/zhǔtǐ.mp3
+专辑,Album,zhuānjí,audios/zhuānjí.mp3
+转化,Transform,zhuǎnhuà,audios/zhuǎnhuà.mp3
+转换,Conversion,zhuǎnhuàn,audios/zhuǎnhuàn.mp3
+转向,Turn to,zhuǎnxiàng,audios/zhuǎnxiàng.mp3
+撞,hit,zhuàng,audios/zhuàng.mp3
+自杀,suicide,zìshā,audios/zìshā.mp3
+总数,total,zǒngshù,audios/zǒngshù.mp3
+总体,overall,zǒngtǐ,audios/zǒngtǐ.mp3
+组织,organization,zǔzhī,audios/zǔzhī.mp3

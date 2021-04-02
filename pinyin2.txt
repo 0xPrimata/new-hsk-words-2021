@@ -1,0 +1,410 @@
+hanzi,translation,pinyin
+爱人,Lover,àirén
+白色,white,báisè
+班长,Monitor,bānzhǎng
+办,do,bàn
+半夜,midnight,bànyè
+背,Back,bèi
+比如,such as,bǐrú
+比如说,For example,bǐrúshuō
+笔,pen,bǐ
+笔记,notes,bǐjì
+笔记本,notebook,bǐjìběn
+边,side,biān
+变,change,biàn
+变成,become,biànchéng
+表,table,biǎo
+示,Show,shì
+不错,Not bad,bùcuò
+不但,Not only,bùdàn
+不够,not enough,bùgòu
+不太,Not quite,bùtài
+不要,Don't,búyào
+不好意思,Sorry,bùhǎoyìsī
+不久,soon,bùjiǔ
+不满,dissatisfied,bùmǎn
+不少,A lot,bùshǎo
+不同,different,bùtóng
+不行,No way,bùxíng
+不一定,Not necessarily,bùyídìng
+不一会儿,Soon,bùyīhuìer
+部分,section,bùfèn
+草地,Grassland,cǎodì
+查,check,chá
+常见,common,chángjiàn
+常用,Commonly used,chángyòng
+场,field,chǎng
+车辆,vehicle,chēliàng
+称,Weigh,chēng
+成,to make,chéng
+出国,Go abroad,chūguó
+出门,Go out,chūmén
+出现,appear,chūxiàn
+出院,Discharged,chūyuàn
+出租,rent,chūzū
+船,ferry,chuán
+春节,Spring Festival,chūnjié
+春天,spring,chūntiān
+词,word,cí
+词典,dictionary,cídiǎn
+词语,Words,cíyǔ
+从小,Since childhood,cóngxiǎo
+大部分,most,dàbùfèn
+大大,Greatly,dàdà
+大多数,most,dàduōshù
+大海,The sea,dàhǎi
+大量,A lot,dàliàng
+大门,door,dàmén
+大人,grown ups,dàrén
+大声,Loudly,dàshēng
+大小,size,dàxiǎo
+大衣,Overcoat,dàyī
+大自然,nature,dàzìrán
+带来,bring,dàilái
+但,but,dàn
+蛋,egg,dàn
+倒,inverted,dào
+倒,inverted,dào
+道,Tao,dào
+道路,the way,dàolù
+得出,inferred,déchū
+的话,if,dehuà
+等到,wait until,děngdào
+低,low,dī
+地铁站,subway station,dìtiězhàn
+点头,nod,diǎntóu
+店,shop,diàn
+东北,northeast,dōngběi
+东方,East,dōngfāng
+东南,southeast,dōngnán
+冬天,winter,dōngtiān
+懂得,know,dǒngde
+动物园,zoo,dòngwùyuán
+读音,pronunciation,dúyīn
+度,degree,dù
+短信,SMS,duǎnxìn
+队,team,duì
+队长,team leader,duìzhǎng
+多久,how long,duōjiǔ
+多数,most,duōshù
+多云,partly cloudy,duōyún
+发,hair,fā
+饭馆,restaurant,fànguǎn
+方便面,Instant noodles,fāngbiànmiàn
+放下,lay down,fàngxià
+分开,separate,fēnkāi
+分数,fraction,fēnshù
+封,seal,fēng
+服务,service,fúwù
+该,The,gāi
+改,change,gǎi
+感到,feel,gǎndào
+刚,just,gāng
+刚刚,just,gānggāng
+高级,advanced,gāojí
+高中,High school,gāozhōng
+个子,Tall,gèzi
+更,more,gèng
+公交车,bus,gōngjiāochē
+公斤,kg,gōngjīn
+公路,highway,gōnglù
+故事,story,gùshì
+关机,Shut down,guānjī
+过来,come,guòlái
+过年,New Year,guònián
+海,sea,hǎi
+海边,seaside,hǎibiān
+好多,many,hǎoduō
+好久,Long time,hǎojiǔ
+好人,Nice guy,hǎorén
+好事,Good thing,hǎoshì
+河,River,hé
+黑色,black,hēisè
+红色,red,hóngsè
+后来,later,hòulái
+忽然,suddenly,hūrán
+湖,lake,hú
+花园,garden,huāyuán
+画家,painter,huàjiā
+画儿,Painting,huàér
+坏处,harm,huàichù
+坏人,Bad guy,huàirén
+欢迎,welcome,huānyíng
+黄,yellow,huáng
+黄色,yellow,huángsè
+回国,Return home,huíguó
+或,or,huò
+鸡,chicken,jī
+级,level,jí
+急,anxious,jí
+计算机,computer,jìsuànjī
+加,plus,jiā
+加油,Come on,jiāyóu
+家长,Parent,jiāzhǎng
+假期,Holiday,jiàqī
+见到,See,jiàndào
+见过,Have seen,jiànguò
+讲话,Speak,jiǎnghuà
+交给,Hand over,jiāogěi
+交朋友,make friends,jiāopéngyǒu
+叫作,Called,jiàozuò
+教师,teacher,jiàoshī
+教学,teaching,jiàoxué
+接到,Received,jiēdào
+接下来,Next,jiēxiàlái
+接着,then,jiēzhe
+街,street,jiē
+节,Section,jié
+结果,result,jiéguǒ
+斤,jin,jīn
+今后,from now on,jīnhòu
+进入,enter,jìnrù
+近,near,jìn
+酒,liqueur,jiǔ
+酒店,Hotel,jiǔdiàn
+就要,Will,jiùyào
+举,Lift,jǔ
+举手,Raise hand,jǔshǒu
+举行,Hold,jǔxíng
+句,sentence,jù
+卡,card,kǎ
+开机,Boot up,kāijī
+开心,Happy,kāixīn
+开学,Start of school,kāixué
+考生,Candidate,kǎoshēng
+靠,by,kào
+科,Branch,kē
+课堂,classroom,kètáng
+快餐,fast food,kuàicān
+快点儿,Hurry up,kuàidiǎnér
+快要,About to,kuàiyào
+来自,From,láizì
+蓝色,blue,lánsè
+篮球,basketball,lánqiú
+老年,elderly,lǎonián
+老朋友,Old friend,lǎopéngyǒu
+老是,always,lǎoshì
+里头,Inside,lǐtou
+例子,example,lìzi
+练,practice,liàn
+凉,cool,liáng
+亮,bright,liàng
+零下,below zero,língxià
+留下,Stay,liúxià
+留学生,International students,liúxuéshēng
+流,flow,liú
+路边,roadside,lùbiān
+旅客,Traveler,lǚkè
+旅行,travel,lǚxíng
+绿色,green,lǜsè
+面¹,Noodle¹,miàn¹
+面²,Noodles²,miàn²
+面前,before,miànqián
+名,name,míng
+名称,name,míngchēng
+名单,List,míngdān
+拿出,Take out,náchū
+拿到,Get,nádào
+那会儿,At that moment,nàhuìer
+那么,Then,nàme
+那时候,At that time,nàshíhòu
+那样,That way,nàyàng
+南方,south,nánfāng
+难看,Ugly,nánkàn
+难题,problem,nántí
+难听,Ugly,nántīng
+能够,were able,nénggòu
+爬,climb,pá
+怕,afraid,pà
+排,row,pái
+排队,queue,páiduì
+排球,volleyball,páiqiú
+碰,bump,pèng
+碰到,bump into,pèngdào
+碰见,meet,pèngjiàn
+平安,Safe,píngān
+瓶,bottle,píng
+瓶子,bottle,píngzi
+普通,ordinary,pǔtōng
+普通话,Mandarin,pǔtōnghuà
+骑车,Cycling,qíchē
+起飞,take off,qǐfēi
+气,gas,qì
+气温,Temperature,qìwēn
+千克,kilogram,qiānkè
+前年,The year before last,qiánnián
+墙,wall,qiáng
+青年,youth,qīngnián
+晴天,sunny day,qíngtiān
+请客,dinner,qǐngkè
+秋天,fall,qiūtiān
+求,begging,qiú
+球场,court,qiúchǎng
+球队,team,qiúduì
+球鞋,sneakers,qiúxié
+取得,Get,qǔde
+全,all,quán
+全国,Nationwide,quánguó
+全家,Whole family,quánjiā
+全年,annual,quánnián
+全身,whole body,quánshēn
+全体,All,quántǐ
+人们,people,rénmen
+人数,Number of people,rénshù
+日报,daily,rìbào
+日子,day,rìzi
+商人,businessman,shāngrén
+上周,Last week,shàngzhōu
+少数,few,shǎoshù
+少年,juvenile,shàonián
+身边,By your side,shēnbiān
+什么样,What kind,shénmeyàng
+生,Give birth,shēng
+生词,New words,shēngcí
+市,city,shì
+市长,mayor,shìzhǎng
+事情,thing,shìqíng
+收到,Roger that,shōudào
+受到,Suffer,shòudào
+熟,Cooked,shú
+数,number,shù
+送到,Sent to,sòngdào
+送给,Give to,sònggěi
+算,Calculate,suàn
+虽然,although,suīrán
+它们,they,tāmen
+提,mention,tí
+提出,put forward,tíchū
+提到,Mentioned,tídào
+体育场,stadium,tǐyùchǎng
+体育馆,stadium,tǐyùguǎn
+天上,Heaven,tiānshàng
+听讲,Listen,tīngjiǎng
+听说,It is said that,tīngshuō
+停,stop,tíng
+停车,parking,tíngchē
+停车场,parking lot,tíngchēchǎng
+挺好,very good,tǐnghǎo
+通,through,tōng
+同时,in the meantime,tóngshí
+同样,same,tóngyàng
+头,head,tóu
+头,head,tóu
+图片,image,túpiàn
+外地,Out of town,wàidì
+外卖,Takeaway,wàimài
+晚安,good night,wǎnān
+晚报,Evening News,wǎnbào
+晚餐,dinner,wǎncān
+晚会,Party,wǎnhuì
+网,network,wǎng
+往,to,wǎng
+问路,Ask for directions,wènlù
+午餐,lunch,wǔcān
+午睡,Nap,wǔshuì
+西北,northwest,xīběi
+西餐,Western food,xīcān
+西方,West,xīfāng
+西南,southwest,xīnán
+西医,Western medicine,xīyī
+洗衣机,washing machine,xǐyījī
+下雪,Snowing,xiàxuě
+下周,next week,xiàzhōu
+夏天,summer,xiàtiān
+相同,the same,xiāngtóng
+想到,think,xiǎngdào
+想法,idea,xiǎngfǎ
+想起,Remember,xiǎngqǐ
+相机,camera,xiàngjī
+像,Like,xiàng
+小声,Whisper,xiǎoshēng
+小时候,When I was young,xiǎoshíhòu
+小组,group,xiǎozǔ
+校园,campus,xiàoyuán
+笑话儿,Joke,xiàohuàér
+鞋,shoe,xié
+心里,In the heart,xīnlǐ
+心中,In mind,xīnzhōng
+信,letter,xìn
+信息,information,xìnxī
+信用卡,credit card,xìnyòngkǎ
+星星,star,xīngxīng
+姓名,Name,xìngmíng
+休假,Vacation,xiūjià
+选,selected,xuǎn
+学期,semester,xuéqī
+眼,eye,yǎn
+养,support,yǎng
+药店,pharmacy,yàodiàn
+药片,pill,yàopiàn
+药水,Potion,yàoshuǐ
+夜里,at night,yèlǐ
+一部分,Part of,yībùfèn
+一路平安,Safe journey,yílùpíngān
+一路顺风,Bon Voyage,yīlùshùnfēng
+以后,after,yǐhòu
+以上,the above,yǐshàng
+以外,outside,yǐwài
+以为,think,yǐwéi
+以下,the following,yǐxià
+一点点,a little bit,yìdiǎndiǎn
+一生,lifetime,yīshēng
+亿,Billion,yì
+阴天,cloudy day,yīntiān
+音节,syllable,yīnjié
+音乐会,concert,yīnyuèhuì
+银行卡,Bank card,yínhángkǎ
+英文,English,yīngwén
+英语,English,yīngyǔ
+影片,film,yǐngpiān
+油,oil,yóu
+游客,Tourist,yóukè
+有空儿,available,yǒukòngér
+有人,Someone,yǒurén
+有意思,interesting,yǒuyìsī
+院,hospital,yuàn
+院长,Dean,yuànzhǎng
+院子,courtyard,yuànzi
+月份,month,yuèfèn
+越来越,More and more,yuèláiyuè
+云,cloud,yún
+咱,we,zán
+脏,dirty,zàng
+早餐,breakfast,zǎocān
+早晨,in the morning,zǎochén
+早就,Long ago,zǎojiù
+怎么办,How to do,zěnmebàn
+怎样,how,zěnyàng
+占,Take up,zhàn
+站住,stop,zhànzhù
+长大,grow up,zhǎngdà
+找出,Find out,zhǎochū
+照相,Photograph,zhàoxiàng
+这么,so,zhème
+这时候,At this moment,zhèshíhòu
+这样,such,zhèyàng
+正是,Exactly,zhèngshì
+只能,Can only,zhǐnéng
+纸,paper,zhǐ
+中餐,Chinese food,zhōngcān
+中级,intermediate,zhōngjí
+中年,middle aged,zhōngnián
+中小学,Elementary and middle school,zhōngxiǎoxué
+中医,Chinese Medicine,zhōngyī
+周,week,zhōu
+住房,housing,zhùfáng
+住院,Be hospitalized,zhùyuàn
+自行车,bicycle,zìxíngchē
+字典,dictionary,zìdiǎn
+走过,Walk through,zǒuguò
+走进,Walk in,zǒujìn
+走开,Go away,zǒukāi
+组,group,zǔ
+组成,composition,zǔchéng
+组长,Group leader,zǔzhǎng
+嘴,mouth,zuǐ
+作家,writer,zuòjiā
+作用,effect,zuòyòng
+做到,Do it,zuòdào
+做法,practice,zuòfǎ
+做饭,Cook,zuòfàn
